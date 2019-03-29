@@ -5,5 +5,7 @@
 
   
 # 一些常用网站链接：  
-*  [MAC萌新网](https://www.macxin.com/)  
+*  [MAC萌新网](https://www.macxin.com/)   [云盘](https://pan.macxin.com/)
+*  [小众软件](https://www.appinn.com/) ![logo](https://img3.appinn.com/static/wp-content/uploads/appinn190.png)
+*  [异次元软件世界](https://www.iplaysoft.com/)
 
