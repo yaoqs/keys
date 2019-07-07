@@ -24,11 +24,13 @@
 ## 破解相关网站
 * [看雪] (https://bbs.pediy.com)
 * [52破解] (https://www.52pojie.cn/)
+* [飘云阁(PYG官方论坛)]  (https://www.chinapyg.com/)
 
 ## 快传
 * 奶牛快传 - 不限制大小不限速度的免费临时文件分享网盘 (文件传输服务) https://cowtransfer.com/
 * FireFox Send - 火狐免费个人文件分享网盘服务 (加密传输 / 设置密码 / 限制时间) https://send.firefox.com/
 
-
+## 电子书库
+* [飘云阁电子书库] (https://www.chinapyg.com/forum.php?mod=forumdisplay&fid=129&filter=heat&orderby=heats)
 
 
