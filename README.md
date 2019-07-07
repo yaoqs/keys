@@ -10,6 +10,9 @@
 * [小众软件]    (https://www.appinn.com/)
 * [异次元软件世界]    (https://www.iplaysoft.com/)
 
+## 下载网站
+* [下载吧] （http://www.xiazaiba.com/）
+
 ## 代码仓
 * [Github]    (https://github.com/) 免费版支持无限私有仓库 (微软收购)
 * [BitBucket]    (https://BitBucket.com/) 免费版支持私有仓库
