@@ -9,6 +9,7 @@
 * [MAC萌新网]    (https://www.macxin.com/)   [萌新云盘](https://pan.macxin.com/)
 * [小众软件]    (https://www.appinn.com/)
 * [异次元软件世界]    (https://www.iplaysoft.com/)
+* [乐软博客]          (https://www.isharepc.com/)
 
 ## 下载网站
 * [下载吧] （http://www.xiazaiba.com/ ）
