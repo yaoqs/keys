@@ -11,7 +11,7 @@
 * [异次元软件世界]    (https://www.iplaysoft.com/)
 
 ## 下载网站
-* [下载吧] （http://www.xiazaiba.com/）
+* [下载吧] （http://www.xiazaiba.com/ ）
 
 ## 代码仓
 * [Github]    (https://github.com/) 免费版支持无限私有仓库 (微软收购)
