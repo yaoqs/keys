@@ -1,0 +1,16 @@
+we offer you two ways to license matlab r2011a:
+
+standalone
+1) choose "install manually without using the internet"		
+2) enter the "file installation key"
+   27148-10273-27823-12342-16466
+3) use "license_standalone.dat" when asked for license file
+
+network
+1) choose "install manually without using the internet"		
+2) enter the "file installation key"
+   46502-49379-06867-32603-40799
+3) if neccessary install "license manager"
+4) use "license_server.dat" when asked for license file
+
+enjoy !
