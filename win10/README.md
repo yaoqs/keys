@@ -1,5 +1,69 @@
 # Win10 keys
 [TOC]
+
+## win10下载地址
++ Windows 10五月更新（64位）消费者版本（家庭版，家庭单语言版，教育版，专业版，专业教育版，专业工作站版）
+
+  cn_windows_10_consumer_editions_version_1903_x64_dvd_8f05241d.iso
+
+  SHA-1: CF1E64128585B6DDF7CC53D91758D7B0F836B863
+
+  大小：4.57GB
+
+  发布时间：2019-04-19
+
+  下载地址：
+
+  ed2k://|file|cn_windows_10_consumer_editions_version_1903_x64_dvd_8f05241d.iso|4905476096|F28FDC23DA34D55BA466BFD6E91DD311|/
+
++ Windows 10五月更新（64位）商业版（企业版，教育版，专业版，专业教育版，专业工作站版）
+
+  文件名：
+
+  cn_windows_10_business_editions_version_1903_x64_dvd_e001dd2c.iso
+
+  SHA-1: BC6176BEE6130446421ACA236E7944EE88C92FE8
+
+  大小：4.48GB
+
+  发布时间：2019-04-19
+
+  下载地址：
+
+  ed2k://|file|cn_windows_10_business_editions_version_1903_x64_dvd_e001dd2c.iso|4815527936|47D4C57E638DF8BF74C59261E2CE702D|/
+
++ Windows 10五月更新（32位）消费者版（家庭版，家庭单语言版，教育版，专业版，专业教育版，专业工作站版）
+
+  文件名：
+
+  cn_windows_10_consumer_editions_version_1903_x86_dvd_44b77216.iso
+
+  SHA-1: 7910D3B3FF7B836CF13924BF4A91BF51404B93D3
+
+  大小：3.31GB
+
+  发布时间：2019-04-19
+
+  下载地址：
+
+  ed2k://|file|cn_windows_10_consumer_editions_version_1903_x86_dvd_44b77216.iso|3557466112|926D3E6D2503D0E8CB4C8599C8DEC58F|/
+
++ Windows 10五月更新（32位）商业版（企业版，教育版，专业版，专业教育版，专业工作站版）
+
+  文件名：
+
+  cn_windows_10_business_editions_version_1903_x86_dvd_645a847f.iso
+
+  SHA-1: F4AC6ECF4BD4189277DBCCA008E4D0ADE79ECEE8
+
+  大小：3.25GB
+
+  发布时间：2019-04-19
+
+  下载地址：
+
+  ed2k://|file|cn_windows_10_business_editions_version_1903_x86_dvd_645a847f.iso|3490486272|587AE6398153C128EC52257B2710EE92|/
+
 ## win10密钥须知：
 win10激活码都有激活次数的限制，而且容易被官方封禁，所以不能保证100%可用，win10序列号不能用时，大家可以用激活工具来激活，市面上的激活工具都是KMS激活，KMS是180天激活，到期后可反复激活进行续期，或下载安装ghost Windows10免激活系统。
 
