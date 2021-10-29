@@ -116,6 +116,23 @@ c9ffbc159bf2640ad5d9b88f8fa9d9cbf2b7e5b022a21938465244
   - KM4WH-CN3DB-328PY-F8G7R-F6YT3
   - B6P27-P3NVX-KR8QY-DT4D8-6MVHK
   - P6MNV-VHHWP-7Q49D-M2V3B-6VJ3D
+- Project2016专业版永久密钥零售版：Project2016 Pro Retail：M8NTM-HBHP4-WDK77-QXXGD-DV7HK
+- Project2016批量授权版Volume:GVLK密钥 KMS激活专用【永久有效】
+    - Project2016专业版：YG9NW-3K39V-2T3HJ-93F3Q-G83KT
+    - Project2016标准版：GNFHQ-F6YQM-KQDGJ-327XX-KQBVC
+    - Project2016 VL版KMS密钥激活步骤：
+        1. 右键开始图标，选择Windows Powershell(管理员)，依次执行下面命令；
+        2. 进入office2016安装目录；
+            - 32位系统装32位office或者64位系统装64位office命令：
+                - cd "C:\Program Files\Microsoft Office\Office16"
+            - 64位系统装32位office命令：
+                - cd "C:\Program Files (x86)\Microsoft Office\Office16"
+        3. 安装Project2016密钥，设置kms服务器，激活Project2016。
+        ```cmd
+        cscript ospp.vbs /inpkey:YG9NW-3K39V-2T3HJ-93F3Q-G83KT
+        cscript ospp.vbs /sethst:kms.03k.org
+        cscript ospp.vbs /act
+        ```
 - project2016专业版简体中文下载地址：ed2k://|file|cn_project_professional_2016_x86_x64_dvd_6966612.iso|2588266496|DEF65A0A9B12D8A8B734528800F625D5|/
 - project2016专业版英文下载地址：ed2k://|file|en_project_professional_2016_x86_x64_dvd_6962236.iso|2421987328|44E574BDBD104294FC6CBFED9FD0F583|/
 - project2019激活密钥：
