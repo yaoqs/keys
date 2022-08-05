@@ -1,12 +1,247 @@
-
 # keys
 
-个人收藏的常用软件的key、注册码、license及注册机等
+个人常用软件的key、注册码、license及注册机等
+
+<!-- TOC -->
+
+- [keys](#keys)
+  - [Windows/office](#windowsoffice)
+    - [Windows和Office的MAK密钥](#windows和office的mak密钥)
+    - [微软内部泄露的 XP的KEY和无限次激活码](#微软内部泄露的-xp的key和无限次激活码)
+    - [office 2007](#office-2007)
+    - [Visio 2007中文版序列号](#visio-2007中文版序列号)
+    - [Microsoft Visio 2010](#microsoft-visio-2010)
+    - [project2016专业版激活密钥和下载地址](#project2016专业版激活密钥和下载地址)
+    - [插件](#插件)
+      - [MathType](#mathtype)
+  - [visual studio](#visual-studio)
+    - [vs2019](#vs2019)
+    - [vs2017](#vs2017)
+    - [vs2015](#vs2015)
+    - [VS2013密钥](#vs2013密钥)
+    - [VS2012密钥](#vs2012密钥)
+    - [Microsoft Visual Studio 2010(VS2010)正式版 CDKEY / SN](#microsoft-visual-studio-2010vs2010正式版-cdkey--sn)
+    - [序列号](#序列号)
+    - [序列号](#序列号-1)
+    - [vs 插件](#vs-插件)
+      - [VS Supercharger插件](#vs-supercharger插件)
+  - [WinRAR](#winrar)
+  - [MICROSOFT SQL SERVER](#microsoft-sql-server)
+    - [sql2012](#sql2012)
+  - [winhex](#winhex)
+  - [IDA](#ida)
+  - [cd iso](#cd-iso)
+    - [WinISO5.3版的注册码](#winiso53版的注册码)
+    - [winiso reg.reg](#winiso-regreg)
+    - [ultraiso reg.reg](#ultraiso-regreg)
+    - [nero](#nero)
+    - [DVD Mate Deluxe v2.5.11.28 简繁英日注册版](#dvd-mate-deluxe-v251128-简繁英日注册版)
+  - [Beyond Compare 3Key](#beyond-compare-3key)
+  - [vm652](#vm652)
+  - [corel videoStudio Pro x4 key](#corel-videostudio-pro-x4-key)
+  - [CorelDRAW Graphics Suite X5](#coreldraw-graphics-suite-x5)
+  - [便携式文件夹加密器 5.43 注册信息](#便携式文件夹加密器-543-注册信息)
+  - [[SSH客户端软件].Xshell.4.Commercial.v4.0.0092-TE](#ssh客户端软件xshell4commercialv400092-te)
+  - [editplus3](#editplus3)
+  - [emeditor](#emeditor)
+  - [Winamp pro 5.04 注册码](#winamp-pro-504-注册码)
+  - [EasyBoot V5.0.0.411简体中文注册版](#easyboot-v500411简体中文注册版)
+  - [古籍库](#古籍库)
+
+<!-- /TOC -->
 
 ## Windows/office
 
 本人采用[MicroKMS](http://www.yishimei.cn/network/319.html)激活，有效！
 目前MicroKMS神龙版能激活win11、win10、win8/8.1、win7以及server2008/2012/2016/2019/2022等系统版本，其中包括：专业工作站版、企业版、专业版、教育版、专业教育版、家庭版、核心版、中文版（OEM预装系统版本）、单语言版等，同时支持激活office 2010/2013/2016/2019/2021 Proplus、Visio 2010/2013/2016/2019/2021 Pro、Project 2010/2013/2016/2019/2021 Pro。
+
+### Windows和Office的MAK密钥
+
+```
+产品密钥:NQTJT-Q9PQR-2C9MJ-4FXQ7-JQKR4
+类型描述:Win 10 RTM Enterprise
+Volume:MAK 剩余次数:22117
+错误代码:Online Key
+检测时间:2022-04-01 20:33:36 PM(UTC+08:00)
+
+产品密钥:VWRNB-4GGGD-RJCWY-CJ7JP-BTFH9
+类型描述:Win 10 RTM ProfessionalWorkstation Volume:MAK
+剩余次数:6120
+错误代码:Online Key
+检测时间:2022-04-01 20:49:26 PM(UTC+08:00)
+
+产品密钥:M6JHX-8NV9B-3XYHX-GQMTM-F9D8P
+类型描述:Win 10 RTM Enterprise LTSC 2019 Volume:MAK
+剩余次数:62868
+错误代码:Online Key
+检测时间:2022-04-01 20:51:25 PM(UTC+08:00)
+
+产品密钥:9V2KN-9MCCK-PBV8F-FF68G-BP33D
+类型描述:Office2019_ProPlus2019VL_MAK_AE
+剩余次数:20154
+错误代码:Online Key
+检测时间:2022-04-01 20:36:36 PM(UTC+08:00)
+
+产品密钥:HPMFN-BWCHB-D86HF-9KYWM-MY7PC
+类型描述:Office2019_ProjectPro2019VL_MAK_AE
+剩余次数:2337
+错误代码:Online Key
+检测时间:2022-04-01 20:42:07 PM(UTC+08:00)
+
+产品密钥:228N2-6HCP8-KDCQ8-JTBBK-XKY92
+类型描述:Office2019_VisioPro2019VL_MAK_AE
+剩余次数:843
+错误代码:Online Key
+检测时间:2022-04-01 20:43:25 PM(UTC+08:00)
+
+产品密钥:NMWYF-3V72J-J7MV8-FC73G-YG9YB
+类型描述:Office2016_ProPlusVL_MAK
+剩余次数:17237
+错误代码:Online Key
+检测时间:2022-04-01 20:38:17 PM(UTC+08:00)
+
+产品密钥:JWHN9-HTW7C-GFYK6-DC7F7-XD78M
+类型描述:Office2016_VisioProVL_MAK
+剩余次数:3954
+错误代码:Online Key
+检测时间:2022-04-01 20:45:07 PM(UTC+08:00)
+
+产品密钥:NWKQP-4BWF7-X6JJ6-PGVGF-YTDKV
+类型描述:Office2016_ProjectProVL_MAK
+剩余次数:4227
+错误代码:Online Key
+检测时间:2022-04-01 20:45:09 PM(UTC+08:00)
+
+还有一些朋友需要激活Windows7，一般大家安装的都是旗舰版，这个版本没有MAK密钥。但是可以用Retail密钥激活。只要检测后错误代码为008的，即可100%在线激活。此外安装较多的是专业版（零售版），也可以使用Retail密钥在线100%激活。
+
+产品密钥:W42C6-776XM-G3FYJ-4W38Y-6VJR2
+类型描述:Windows 7 Ultimate OEM:COA
+错误代码:0xC004C008
+检测时间:2022-04-01 21:15:53 PM(UTC+08:00)
+
+产品密钥:4FGYD-CF9PT-9B3PW-9YM2M-PXMQC
+类型描述:Windows 7 Ultimate OEM:COA
+错误代码:0xC004C008
+检测时间:2022-04-01 21:15:25 PM(UTC+08:00)
+
+产品密钥:GHT2X-GBG2F-VQGRV-3HYXV-M29CC
+类型描述:Windows 7 Ultimate OEM:CO
+错误代码:0xC004C008
+检测时间:2022-04-01 21:15:40 PM(UTC+08:00)
+
+产品密钥:BXHJ2-WGRJ4-97XCP-KRX3Q-3W269
+类型描述:Windows 7 Professional OEM:COA
+错误代码:0xC004C008
+检测时间:2022-04-01 21:15:33 PM(UTC+08:00)
+
+产品密钥:GQWCK-DKG2X-RTJ9P-JC8YK-JH9BR
+类型描述:Windows 7 Professional OEM:COA
+错误代码:0xC004C008
+检测时间:2022-04-01 21:15:46 PM(UTC+08:00)
+```
+
+### 微软内部泄露的 XP的KEY和无限次激活码
+
++ Windows XP专业版最新注册码
+  + HTXH6-2JJC4-CDB6C-X38B4-C3GF3
+  + RT4H2-8WYHG-QKK6K-WWHJ2-9427X
+  + DYPVX-43TRT-YDBGB-7YQJX-CWXW7
+  + HGM7B-YF7T7-8R7RF-Y6RPY-XTQ77
+  + DJQJB-PC83T-FTGJC-CQTCK-RJD8D
+  + VMMBM-8WK8W-H44YH-37B4M-KX8QR
+  + XRCTF-Y68KJ-VVFTR-7BDFP-4PW7G
+  + 6RV7B-FYWR2-PW3C6-DDWDR-68X9C
+  + KYMTD-BV7KP-RRM33-P3XKJ-RDKVD
+  + X3WYK-H7CR8-KQBMV-7DP6X-W6YQQ
+  + CQWK3-CCYJY-TQDFV-2HJDR-W3B2M
+  + 2RXYJ-VQWXM-J2V2R-CVXQT-Y6MPY
+  + X7TVH-VJTFG-BK22B-XXG6D-27326
+  + VYGXV-YM8VB-4RVQX-QXBMX-G3WV7
+  + 4DP2D-CXW4C-TRYDH-CW4CT-PT23X
+  + R6M6K-HT7G7-XG4K4-66PGK-9V2RM
+  + 86VYW-4RHCG-CCC7Y-64MWM-V8B68
+  + VPM77-Y3YJW-W4MFC-CQTCK-D2XGK
+  + K3JD6-DK6G4-YH32B-QT7VP-R8WC7
+  + JRMCK-J3V37-YVCYH-MDJ37-94BHP MY0E
+  + KJ3XK-3B6KW-XK62M-VDC7W-DJ6V9
++ WindowsXP可以无限次激活的号码
+  + CXGDD-GP2B2-RKWWD-HG3HY-VDJ7J
+  + RK7J8-2PGYQ-P47VV-V6PMB-F6XPQ
++ windows XP 企业版
+  + CTTC3-J8QWX-JRF2P-YQYF8-4HW7M
+  + R4F3T-2QWKG-33M4V-8MJCF-Y6XV7
+  + TDW2D-WXGW2-VWB4H-FCDRM-X6K7P
+  + 67YF6-2JX6P-CXMQT-F3MW2-FC6RY
+  + B2PB4-T6CGC-YWRCF-TDPCK-2F8HG
+  + VCFM8-XPDHK-44J7M-23W7C-JMFPV
+  + XJTBM-WTYV7-YHV22-QGKWB-3XT9B
+  + HKWFJ-QDXTP-82QFW-2RFC8-PGHBG
+
+### office 2007
+
++ DBXYD-TF477-46YM4-W74MH-6YDQ8
++ KGFVY-7733B-8WCK9-KTG64-BC7D8
++ G2WGQ-4WDK3-PJKPW-98VXX-THFMJ
++ H6YPK-HY3DR-9T4MC-DYDBQ-PCWBJ
++ QRPJ-XKGBT-XCPTF-47QQP-2RCVW
++ XP2M9-2KFQ2-K92R9-3MR2T-GW8BJ
++ VBQF2-6K94C-KCT26-R4XQF-C2QQ8
++ GM26K-7MYV2-338DJ-4DKMG-DTJBJ
++ QF3F4-BPX6T-969XC-KDFKT-D9HD8
++ CTKXX-M97FT-89PW2-DHKD3-74MYJ
+
+### Visio 2007中文版序列号
+
+W2JJW-4KYDP-2YMKW-FX36H-QYVD8
+
+### Microsoft Visio 2010
+
+安装序列号：
+
++ 6QFDX-PYH2G-PPYFD-C7RJM-BBKQ8
++ BDD3G-XM7FB-BD2HM-YK63V-VQFDK
++ GRPWH-7CDHQ-K3G3C-JH2KX-C88H8
+
+### project2016专业版激活密钥和下载地址
+
++ project2016激活密钥：
+  + NFC9V-8RJXB-B88QK-V3QQG-J2QKQ
+  + KM4WH-CN3DB-328PY-F8G7R-F6YT3
+  + B6P27-P3NVX-KR8QY-DT4D8-6MVHK
+  + P6MNV-VHHWP-7Q49D-M2V3B-6VJ3D
++ Project2016专业版永久密钥零售版：Project2016 Pro Retail：M8NTM-HBHP4-WDK77-QXXGD-DV7HK
++ Project2016批量授权版Volume:GVLK密钥 KMS激活专用【永久有效】
+  + Project2016专业版：YG9NW-3K39V-2T3HJ-93F3Q-G83KT
+  + Project2016标准版：GNFHQ-F6YQM-KQDGJ-327XX-KQBVC
+  + Project2016 VL版KMS密钥激活步骤：
+        1. 右键开始图标，选择Windows Powershell(管理员)，依次执行下面命令；
+        2. 进入office2016安装目录；
+            + 32位系统装32位office或者64位系统装64位office命令：
+                + cd "C:\Program Files\Microsoft Office\Office16"
+            + 64位系统装32位office命令：
+                + cd "C:\Program Files (x86)\Microsoft Office\Office16"
+        3. 安装Project2016密钥，设置kms服务器，激活Project2016。
+
+        ```cmd
+        cscript ospp.vbs /inpkey:YG9NW-3K39V-2T3HJ-93F3Q-G83KT
+        cscript ospp.vbs /sethst:kms.03k.org
+        cscript ospp.vbs /act
+        ```
+
++ project2016专业版简体中文下载地址：ed2k://|file|cn_project_professional_2016_x86_x64_dvd_6966612.iso|2588266496|DEF65A0A9B12D8A8B734528800F625D5|/
+
++ project2016专业版英文下载地址：ed2k://|file|en_project_professional_2016_x86_x64_dvd_6962236.iso|2421987328|44E574BDBD104294FC6CBFED9FD0F583|/
++ project2019激活密钥：
+  + BWW7W-BGND7-74X4P-CPH96-V6FWF
+  + 99YMM-NRFBH-WMMQ-9F96F-KBWB2
++ project2019专业版简体中文下载地址：<https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-CN/ProjectPro2019Retail.img>
++ project2019专业版英文版下载地址：<https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-US/ProjectPro2019Retail.img>
+
+### 插件
+
+#### MathType
+
++ 6.9： MTWE691-011076-szcud
 
 ## visual studio
 
@@ -22,18 +257,14 @@ NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y
 
 ### vs2017
 
-+ Visual Studio 2017（VS2017） 企业版(Enterprise)
-
-    key：NJVYC-BMHX2-G77MM-4XJMR-6Q8QF
-+ Visual Studio 2017（VS2017） 专业版(Professional
-
-    key：KBJFW-NXHK6-W4WJM-CRMQB-G3CDH
++ Visual Studio 2017（VS2017） 企业版(Enterprise) key：NJVYC-BMHX2-G77MM-4XJMR-6Q8QF
++ Visual Studio 2017（VS2017） 专业版(Professional key：KBJFW-NXHK6-W4WJM-CRMQB-G3CDH
 
 ### vs2015
 
 + Visual Studio Professional 2015简体中文版（专业版）
 HMGNV-WCYXV-X7G9W-YCX63-B98R2
-+ Visual Studio Enterprise 2015简体中文版（企业版）
++ [Visual Studio Enterprise 2015简体中文版（企业版）](http://download.microsoft.com/download/B/8/F/B8F1470D-2396-4E7A-83F5-AC09154EB925/vs2015.ent_chs.iso)
 HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
 
 ### VS2013密钥
@@ -45,14 +276,27 @@ HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
 
 ### VS2012密钥
 
-+ Microsoft Visual Studio Ultimate 2012 旗舰版，有效注册密钥：YKCW6-BPFPF-BT8C9-7DCTH-QXGWC或YQ7PR-QTHDM-HCBCV-9GKGG-TB2TM
++ Microsoft Visual Studio Ultimate 2012 旗舰版，有效注册密钥：
+  + YKCW6-BPFPF-BT8C9-7DCTH-QXGWC
+  + YQ7PR-QTHDM-HCBCV-9GKGG-TB2TM
+  + RBCXF-CVBGR-382MK-DFHJ4-C69G8
 + Microsoft Visual Studio Premium 2012 高级版，有效注册密钥：MH2FR-BC9R2-84433-47M63-KQVWC
-Microsoft Visual Studio Professional 2012 专业版，有效注册密钥：4D974-9QX42-9Y43G-YJ7JG-JDYBP
++ Microsoft Visual Studio Professional 2012 专业版，有效注册密钥：4D974-9QX42-9Y43G-YJ7JG-JDYBP
 
-### VS2010密钥
+### Microsoft Visual Studio 2010(VS2010)正式版 CDKEY / SN
 
-Microsoft Visual Studio 2010(VS2010)正式版 CDKEY / SN:
 YCFHQ-9DWCY-DKV88-T2TMH-G7BHP
+
+### 序列号
+
+KGR3T-F2C26-RRTGT-D6DQT-QBBB3
+
+### 序列号
+
++ XMQ2Y-4T3V6-XJ48Y-D3K2V-6C4WT
++ WPX3J-BXC3W-BPYWP-PJ8CM-F7M8T
++ PYHYP-WXB3B-B2CCM-V9DX9-VDY8T
++ WPDW8-M962C-VJX9M-HQB4Q-JVTDM
 
 ### vs 插件
 
@@ -98,62 +342,12 @@ c9ffbc159bf2640ad5d9b88f8fa9d9cbf2b7e5b022a21938465244
 
 ### sql2012
 
-+ MICROSOFT SQL SERVER 2012 企业核心版激活码序列号: ?FH666-Y346V-7XFQ3-V69JM-RHW28
-+ MICROSOFT SQL SERVER 2012 商业智能版激活码序列号: ?HRV7T-DVTM4-V6XG8-P36T4-MRYT6
-+ MICROSOFT SQL SERVER 2012 开发版激活码序列号: ?YQWTX-G8T4R-QW4XX-BVH62-GP68Y
-+ MICROSOFT SQL SERVER 2012 企业服务器版/CAL版序列号: ?748RB-X4T6B-MRM7V-RTVFF-CHC8H
-+ MICROSOFT SQL SERVER 2012 标准版激活码序列号: ?YFC4R-BRRWB-TVP9Y-6WJQ9-MCJQ7
-+ MICROSOFT SQL SERVER 2012 WEB版激活码序列号: ?FB3W8-YRXDP-G8F8F-C46KG-Q998F
-
-## office
-
-### 2007
-
-+ DBXYD-TF477-46YM4-W74MH-6YDQ8
-+ KGFVY-7733B-8WCK9-KTG64-BC7D8
-+ G2WGQ-4WDK3-PJKPW-98VXX-THFMJ
-+ H6YPK-HY3DR-9T4MC-DYDBQ-PCWBJ
-
-### project2016专业版激活密钥和下载地址
-
-+ project2016激活密钥：
-  + NFC9V-8RJXB-B88QK-V3QQG-J2QKQ
-  + KM4WH-CN3DB-328PY-F8G7R-F6YT3
-  + B6P27-P3NVX-KR8QY-DT4D8-6MVHK
-  + P6MNV-VHHWP-7Q49D-M2V3B-6VJ3D
-+ Project2016专业版永久密钥零售版：Project2016 Pro Retail：M8NTM-HBHP4-WDK77-QXXGD-DV7HK
-+ Project2016批量授权版Volume:GVLK密钥 KMS激活专用【永久有效】
-  + Project2016专业版：YG9NW-3K39V-2T3HJ-93F3Q-G83KT
-  + Project2016标准版：GNFHQ-F6YQM-KQDGJ-327XX-KQBVC
-  + Project2016 VL版KMS密钥激活步骤：
-        1. 右键开始图标，选择Windows Powershell(管理员)，依次执行下面命令；
-        2. 进入office2016安装目录；
-            + 32位系统装32位office或者64位系统装64位office命令：
-                + cd "C:\Program Files\Microsoft Office\Office16"
-            + 64位系统装32位office命令：
-                + cd "C:\Program Files (x86)\Microsoft Office\Office16"
-        3. 安装Project2016密钥，设置kms服务器，激活Project2016。
-
-        ```cmd
-        cscript ospp.vbs /inpkey:YG9NW-3K39V-2T3HJ-93F3Q-G83KT
-        cscript ospp.vbs /sethst:kms.03k.org
-        cscript ospp.vbs /act
-        ```
-
-+ project2016专业版简体中文下载地址：ed2k://|file|cn_project_professional_2016_x86_x64_dvd_6966612.iso|2588266496|DEF65A0A9B12D8A8B734528800F625D5|/
-
-+ project2016专业版英文下载地址：ed2k://|file|en_project_professional_2016_x86_x64_dvd_6962236.iso|2421987328|44E574BDBD104294FC6CBFED9FD0F583|/
-+ project2019激活密钥：
-  + BWW7W-BGND7-74X4P-CPH96-V6FWF
-  + 99YMM-NRFBH-WMMQ-9F96F-KBWB2
-+ project2019专业版简体中文下载地址：<https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-CN/ProjectPro2019Retail.img>
-+ project2019专业版英文版下载地址：<https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-US/ProjectPro2019Retail.img>
-
-### 插件
-
-#### MathType
-
-6.9： MTWE691-011076-szcud
++ MICROSOFT SQL SERVER 2012 企业核心版激活码序列号: FH666-Y346V-7XFQ3-V69JM-RHW28
++ MICROSOFT SQL SERVER 2012 商业智能版激活码序列号: HRV7T-DVTM4-V6XG8-P36T4-MRYT6
++ MICROSOFT SQL SERVER 2012 开发版激活码序列号: YQWTX-G8T4R-QW4XX-BVH62-GP68Y
++ MICROSOFT SQL SERVER 2012 企业服务器版/CAL版序列号: 748RB-X4T6B-MRM7V-RTVFF-CHC8H
++ MICROSOFT SQL SERVER 2012 标准版激活码序列号: YFC4R-BRRWB-TVP9Y-6WJQ9-MCJQ7
++ MICROSOFT SQL SERVER 2012 WEB版激活码序列号: FB3W8-YRXDP-G8F8F-C46KG-Q998F
 
 ## winhex
 
@@ -203,62 +397,139 @@ S:igmMBSDuvPoA7/ZcutfE86pf8A9Gr4yjyjHEElmLwDPMy0ec7jgndf05prvG/PSL+mkvoCWumIoW
 S:FijwFFPXkrYVHFx/bDEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
 ```
 
-## CCleaner
+## cd iso
 
-tip: 关网激活即可
+### WinISO5.3版的注册码
 
-### CCleaner Pro Keys
++ 注册名：Jim Jia
++ 注册码：311FB9003A8A9E0E92F08FF487297B485E45F124D9DD0D84
 
-    C2YW-QTRT-ZVCG-PQDK-CZPC
-    C2YW-8W94-N9Z5-E7RP-UPC
-    C2YW-Z32G-8XSK-PRIP-6ZPC
-    C2YW-58YN-GE3K-SSAU-EZPC
-    C2YW-ZC8M-7Y7E-HJMI-SZPC
-    C2YW-5IIT-25AD-RP62-YZPC
-    C2YW-UKAQ-J86B-KJRH-SZPC
-    C2YW-PRJK-BHB6-GBPN-6ZPC
-    C2YW-GAMB-7ISP-EJVU-YZPC
-    C2YW-M5XP-S4TP-BEAZ-IZPC
-    76GF5-6D4F6-GF5D4-65F7G-4C433
-    3BERI-ERVIN-RKVOE-ERKVH-FWKSJ
-    C2YW-ZENP-W7PS-I6WY-WZPC
-    C2YW-I6Z2-7GBI-D8IF-KZPC
-    8N7BV-65C67-GF5D4-F67GF-D456F
-    C2YW-ZHZE-QVJF-ZFR6-UZPC
-    C2YW-IAHG-ZU62-INZQ-WZPC
-    C2YW-BCPZ-878D-QQ3U-2ZPC
-    C2YW-5AZQ-CAYS-924N-KZPC
-    C2YW-XK32-GBVV-N3BH-2ZPC
-    C2YW-7Z2P-QMR9-D3G2-YZPC
-    C2YW-HS79-7NSF-ABUN-8ZPC
-    C2YW-XFCX-ABIG-GZD4-8ZPC
-    MOBY7-C5RXE-XRTYU-IOLKJ-HUGFD
-    C2YW-GP33-TPIU-BGM8-AZPC
-    C2YW-FQ4T-WPZQ-EEQU-SZPC
-    C2YW-74P5-4T5Y-8GJV-GZPC
-    7G6F5-D43D6-5F34C-6G774-3C8NV
-    WEFHW-FWEF2-T45H2-T5T3D-TRJGE
-    7GFI-GED9-DHW9-ED9W-BDI9W
-    C2YW-2XXK-FTUM-78JQ-WZPC
-    WE4FR-6TG7Y-UIOPI-MBYR6-CE4XW
-    C2YW-XRXB-Y6QR-W6MF-NZPC
-    C2YW-DJBH-3CJA-QPFX-AZPC
-    BNMH9-N8B7V-6C56V-CR654-6H76T
-    BCKS-NFOS-HDW-NLKA-DNAO-UE
-    C2YW-ANQF-64VK-CWPG-EZPC
-    65D4S-3G67G-67G5F-D44F7-B8V66
-    C2YW-JKW5-KK79-XHR2-4ZPC
-    C2YW-7HVA-MN47-Y35J-QZPC
-    C2YW-2BAM-ADC2-89RV-YZPC
-    83BC-NDALA-DNOSW-NCSO-HRO
+### winiso reg.reg
 
-### CCleaner Pro Plus Keys
+```reg
+Windows Registry Editor Version 5.00
 
-    ERHIE-WKDHV-LRJO3-REG04-FEOJ3
-    HDW-HDON-SMALA-KSALZ-NCLS
-    EFRG3-3FO35-VTH9W-WGI4N-EROE4
-    F5D3F-678G6-F6D45-766HT-F5D5F
-    HG786-F546C-V7B68-6VC45-XCV7B
-    HD97-HDO9-DJWW-HDWR-DOW
-    HG5F6-7GGFC-6C5X4-UBHFD-456VB
-    JHDVY-QWEFA-ADSJO-32RHF-DFWEW
+[HKEY_CLASSES_ROOT\VirtualStore\MACHINE\SOFTWARE\WINISO]
+"PlaySound"=dword:00000001
+"Navigator"=dword:00000001
+"ListStyle"=dword:00000003
+"OpenFolder"=dword:00000001
+"Skin"=""
+"DefaultViewer"="C:\\Windows\\NOTEPAD.EXE"
+"VirusScanner"=""
+"VirusScannerParameter"=""
+"UserName"="Jim Jia"
+"Registration"="311FB9003A8A9E0E92F08FF487297B485E45F124D9DD0D84 "
+```
+
+### ultraiso reg.reg
+
++ 1. 用户名 李明
+
+```reg
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\EasyBoot Systems]
+
+[HKEY_CURRENT_USER\Software\EasyBoot Systems\UltraISO]
+
+[HKEY_CURRENT_USER\Software\EasyBoot Systems\UltraISO\5.0]
+"UserName"="李明"
+"Registration"="66294559707f6d42115b3d29050d1b43"
+```
+
++ 2. 用户名 李明 注册码 509F-BA54-BBA6-73C5
+
+### nero
+
+9040-0198-Z5EU-U5M9-5422-WC24-0EEW-L46M
+
+### DVD Mate Deluxe v2.5.11.28 简繁英日注册版
+
+　　Name　 : TEAM CAT 2004
+　　Serial : CMAA0EA775TAA
+
+## Beyond Compare 3Key
+
+```text
+Beyond Compare 3
+Licensed to:    Olivier Guillory
+Quantity:       1 user
+Serial number:  3281-0350
+License type:   Pro Edition for Windows
+
+1.
+--- BEGIN LICENSE KEY ---
+mv1nPlXAywBDCdhxFc9QOVv6TBcQHLAXBQUAKTh3ie4fqSEOnWrPsnVkF
+yt0wAkJHweoExRJWWVwwCniKNROSdJzJXE6YVapYW7f+tRRXRFI4yn4Nj
+jZ0RiiqGRCTVzwComUcXB-eiFWRBY6JpSsCNkmIxL5KsRCo442djHhTZE
+--- END LICENSE KEY -----
+2.
+--- BEGIN LICENSE KEY ---
+A94CFr9HOQg9EZFtOoimovMf+nXXcSXIcIscmtrpQVD6jeW6AC4knIgBM
+Tmk5-bWWeREAJD-uhGotZkOkh0uWU
+--- END LICENSE KEY -----
+```
+
+## vm652
+
+序列号：GAEAN-1A0DF-F046V-4PRQ7
+
+## corel videoStudio Pro x4 key
+
++ 购买序列号：VS14R22-8522G9G-NY6ER28-3DBB46N
++ 激活代码:F285-0109-080E-FDCF-1160
+
+## CorelDRAW Graphics Suite X5
+
++ Purchase serial number: DR15R22-TPVLZUC-CL4GQJ3-BB6FUDA
++ Activation Code:6E8E-714A-E730-533B-4CB7
+
+## 便携式文件夹加密器 5.43 注册信息
+
+一款免费的文件夹加密软件，可以方便地加密任意文件夹,并且支持U盘加密，移动硬盘加密。使用介绍：
+
+1. 采用最新的加密技术,可以方便快捷地加密任意文件夹,U盘及移动硬盘
+2. 成熟的256位BlowFish加密算法能有效地保护您
+
+用户名：yunfeng
+注册码：64062050000005A8EED7A2CFE61378C303A5DBBF18FF9
+
+## [SSH客户端软件].Xshell.4.Commercial.v4.0.0092-TE
+
+```
+Name: Use Anything You Want
+Company: Use Anything You Want
+Serial: 690313-111999-999313
+
+License is a standard site license of 999 machines.
+```
+
+## editplus3
+
++ Name: crsky
++ Code: 7879E-5BF58-7DR23-DAOB2-7DR30
+
+## emeditor
+
+Key:    ASHZZ-25KRS-78HT4-97SK3-R2JBB
+
+## Winamp pro 5.04 注册码
+　　
++ Name: it.weste.net
++ Key: YYSQW-H5FT3-M23Y3-QRKYL
+
+Winamp Pro >5.0
+
++ 用户： xxm112
++ 注册码： P0BA5-2CJBV-5TDHW-W2W6C
+
+## EasyBoot V5.0.0.411简体中文注册版
+
+　　name: www.5icrack.com
+　　sn:5568-2EED-F956-77D3
+
+## 古籍库
+
++ code:sd01
++ pswd:sd01
