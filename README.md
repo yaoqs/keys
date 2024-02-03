@@ -315,6 +315,8 @@ W2JJW-4KYDP-2YMKW-FX36H-QYVD8
 
 
 - 6.9： MTWE691-011076-szcud
+- ![6.9key](mathtype/mathtype6.9key.jpg)
+- [7.x](mathtype/MathType.exe)
 
 ## visual studio
 <a id="markdown-visual-studio" name="visual-studio"></a>
