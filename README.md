@@ -16,56 +16,56 @@
 
 <!-- TOC -->
 
-- [keys](#keys)
-  - [Stargazers over time](#stargazers-over-time)
-  - [网站](#网站)
-  - [Windows/office](#windowsoffice)
-    - [KMS在线激活win11、win10、win8/8.1、win7和office2021/2019/2016/2013/2010之MicroKMS 神龙版](#kms在线激活win11win10win881win7和office20212019201620132010之microkms-神龙版)
-    - [HEU\_KMS\_Activator](#heu_kms_activator)
-    - [Microsoft Activation Scripts (MAS)](#microsoft-activation-scripts-mas)
-    - [云萌 Windows 10+ 激活工具](#云萌-windows-10-激活工具)
-    - [完美绕过Win11限制=改5项注册表+删appraiserres.dll+断网](#完美绕过win11限制改5项注册表删appraiserresdll断网)
-    - [Windows和Office的MAK密钥](#windows和office的mak密钥)
-    - [微软内部泄露的 XP的KEY和无限次激活码](#微软内部泄露的-xp的key和无限次激活码)
-    - [office 2007](#office-2007)
-    - [Visio 2007中文版序列号](#visio-2007中文版序列号)
-    - [Microsoft Visio 2010](#microsoft-visio-2010)
-    - [project2016专业版激活密钥和下载地址](#project2016专业版激活密钥和下载地址)
-    - [插件](#插件)
-      - [MathType](#mathtype)
-  - [visual studio](#visual-studio)
-    - [vs2019](#vs2019)
-    - [vs2017](#vs2017)
-    - [vs2015](#vs2015)
-    - [VS2013密钥](#vs2013密钥)
-    - [VS2012密钥](#vs2012密钥)
-    - [Microsoft Visual Studio 2010(VS2010)正式版 CDKEY / SN](#microsoft-visual-studio-2010vs2010正式版-cdkey--sn)
-    - [序列号](#序列号)
-    - [序列号](#序列号-1)
-    - [vs 插件](#vs-插件)
-      - [VS Supercharger插件](#vs-supercharger插件)
-  - [WinRAR](#winrar)
-  - [MICROSOFT SQL SERVER](#microsoft-sql-server)
-    - [sql2012](#sql2012)
-  - [winhex](#winhex)
-  - [IDA](#ida)
-  - [cd iso](#cd-iso)
-    - [WinISO5.3版的注册码](#winiso53版的注册码)
-    - [winiso reg.reg](#winiso-regreg)
-    - [ultraiso reg.reg](#ultraiso-regreg)
-    - [nero](#nero)
-    - [DVD Mate Deluxe v2.5.11.28 简繁英日注册版](#dvd-mate-deluxe-v251128-简繁英日注册版)
-  - [Beyond Compare 3Key](#beyond-compare-3key)
-  - [vm652](#vm652)
-  - [corel videoStudio Pro x4 key](#corel-videostudio-pro-x4-key)
-  - [CorelDRAW Graphics Suite X5](#coreldraw-graphics-suite-x5)
-  - [便携式文件夹加密器 5.43 注册信息](#便携式文件夹加密器-543-注册信息)
-  - [\[SSH客户端软件\].Xshell.4.Commercial.v4.0.0092-TE](#ssh客户端软件xshell4commercialv400092-te)
-  - [editplus3](#editplus3)
-  - [emeditor](#emeditor)
-  - [Winamp pro 5.04 注册码](#winamp-pro-504-注册码)
-  - [EasyBoot V5.0.0.411简体中文注册版](#easyboot-v500411简体中文注册版)
-  - [古籍库](#古籍库)
+1. [Stargazers over time](#stargazers-over-time)
+2. [网站](#网站)
+3. [Windows/office](#windowsoffice)
+   1. [KMS在线激活win11、win10、win8/8.1、win7和office2021/2019/2016/2013/2010之MicroKMS 神龙版](#kms在线激活win11win10win881win7和office20212019201620132010之microkms-神龙版)
+   2. [HEU\_KMS\_Activator](#heu_kms_activator)
+   3. [Microsoft Activation Scripts (MAS)](#microsoft-activation-scripts-mas)
+   4. [云萌 Windows 10+ 激活工具](#云萌-windows-10-激活工具)
+   5. [完美绕过Win11限制=改5项注册表+删appraiserres.dll+断网](#完美绕过win11限制改5项注册表删appraiserresdll断网)
+   6. [Windows和Office的MAK密钥](#windows和office的mak密钥)
+   7. [微软内部泄露的 XP的KEY和无限次激活码](#微软内部泄露的-xp的key和无限次激活码)
+   8. [office 2007](#office-2007)
+   9. [Visio 2007中文版序列号](#visio-2007中文版序列号)
+   10. [Microsoft Visio 2010](#microsoft-visio-2010)
+   11. [project2016专业版激活密钥和下载地址](#project2016专业版激活密钥和下载地址)
+   12. [插件](#插件)
+       1. [MathType](#mathtype)
+4. [visual studio](#visual-studio)
+   1. [vs2019](#vs2019)
+   2. [vs2017](#vs2017)
+   3. [vs2015](#vs2015)
+   4. [VS2013密钥](#vs2013密钥)
+   5. [VS2012密钥](#vs2012密钥)
+   6. [Microsoft Visual Studio 2010(VS2010)正式版 CDKEY / SN](#microsoft-visual-studio-2010vs2010正式版-cdkey--sn)
+   7. [序列号](#序列号)
+   8. [序列号](#序列号-1)
+   9. [vs 插件](#vs-插件)
+      1. [VS Supercharger插件](#vs-supercharger插件)
+5. [WinRAR](#winrar)
+6. [MICROSOFT SQL SERVER](#microsoft-sql-server)
+   1. [sql2012](#sql2012)
+7. [winhex](#winhex)
+8. [IDA](#ida)
+9. [cd iso](#cd-iso)
+   1. [WinISO5.3版的注册码](#winiso53版的注册码)
+   2. [winiso reg.reg](#winiso-regreg)
+   3. [ultraiso reg.reg](#ultraiso-regreg)
+   4. [nero](#nero)
+   5. [DVD Mate Deluxe v2.5.11.28 简繁英日注册版](#dvd-mate-deluxe-v251128-简繁英日注册版)
+10. [Beyond Compare 3Key](#beyond-compare-3key)
+11. [vm652](#vm652)
+12. [corel videoStudio Pro x4 key](#corel-videostudio-pro-x4-key)
+13. [CorelDRAW Graphics Suite X5](#coreldraw-graphics-suite-x5)
+14. [便携式文件夹加密器 5.43 注册信息](#便携式文件夹加密器-543-注册信息)
+15. [\[SSH客户端软件\].Xshell.4.Commercial.v4.0.0092-TE](#ssh客户端软件xshell4commercialv400092-te)
+16. [editplus3](#editplus3)
+17. [emeditor](#emeditor)
+18. [Winamp pro 5.04 注册码](#winamp-pro-504-注册码)
+19. [EasyBoot V5.0.0.411简体中文注册版](#easyboot-v500411简体中文注册版)
+20. [古籍库](#古籍库)
+21. [IDM(internet download manager)](#idminternet-download-manager)
 
 <!-- /TOC -->
 
@@ -92,9 +92,15 @@
 
 ### [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
 <a id="markdown-microsoft-activation-scripts-mas" name="microsoft-activation-scripts-mas"></a>
-
+Homepage - https://massgrave.dev/
 
 A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+```powershell
+#PowerShell (Windows 8 and later)
+irm https://get.activated.win | iex
+#or (deprecated, will be retired on Dec 31 2024, use above instead)
+irm https://massgrave.dev/get | iex
+```
 
 ### [云萌 Windows 10+ 激活工具](https://cmwtat.cloudmoe.com/)
 <a id="markdown-%E4%BA%91%E8%90%8C-windows-10%2B-%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7" name="%E4%BA%91%E8%90%8C-windows-10%2B-%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7"></a>
@@ -698,3 +704,13 @@ Winamp Pro >5.0
 
 - code:sd01
 - pswd:sd01
+
+## IDM(internet download manager)
+
+- [IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script)
+```powershell
+#powershell
+iex(irm is.gd/idm_reset)
+#or
+irm https://massgrave.dev/ias | iex
+```
