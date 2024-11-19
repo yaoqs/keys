@@ -12,6 +12,7 @@
 - 业余时间所作，难免有不足及错漏之处，敬请包涵指正，可通过github仓库在线留言或[![Email](http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png)](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=m_L69OroxPj1qqKjrdvq6rX49PY)告知；如需补充其他相关专业信息，亦可邮件通知或github仓库在线留言；同时欢迎各位热心人士star、fork或共同参与维护仓库
 
 ## Stargazers over time
+<a id="markdown-stargazers-over-time" name="stargazers-over-time"></a>
 [![Stargazers over time](https://starchart.cc/yaoqs/keys.svg?variant=adaptive)](https://starchart.cc/yaoqs/keys)
 
 <!-- TOC -->
@@ -19,7 +20,7 @@
 1. [Stargazers over time](#stargazers-over-time)
 2. [网站](#网站)
 3. [Windows/office](#windowsoffice)
-   1. [KMS在线激活win11、win10、win8/8.1、win7和office2021/2019/2016/2013/2010之MicroKMS 神龙版](#kms在线激活win11win10win881win7和office20212019201620132010之microkms-神龙版)
+   1. [MicroKMS 神龙版](#microkms-神龙版)
    2. [HEU\_KMS\_Activator](#heu_kms_activator)
    3. [Microsoft Activation Scripts (MAS)](#microsoft-activation-scripts-mas)
    4. [云萌 Windows 10+ 激活工具](#云萌-windows-10-激活工具)
@@ -59,13 +60,16 @@
 12. [corel videoStudio Pro x4 key](#corel-videostudio-pro-x4-key)
 13. [CorelDRAW Graphics Suite X5](#coreldraw-graphics-suite-x5)
 14. [便携式文件夹加密器 5.43 注册信息](#便携式文件夹加密器-543-注册信息)
-15. [\[SSH客户端软件\].Xshell.4.Commercial.v4.0.0092-TE](#ssh客户端软件xshell4commercialv400092-te)
+15. [Xshell.4.Commercial.v4.0.0092-TE](#xshell4commercialv400092-te)
 16. [editplus3](#editplus3)
 17. [emeditor](#emeditor)
 18. [Winamp pro 5.04 注册码](#winamp-pro-504-注册码)
 19. [EasyBoot V5.0.0.411简体中文注册版](#easyboot-v500411简体中文注册版)
 20. [古籍库](#古籍库)
 21. [IDM(internet download manager)](#idminternet-download-manager)
+22. [NetSetMan Pro](#netsetman-pro)
+23. [AcrobatDCPro\_2022.001.20085\_Crack](#acrobatdcpro_202200120085_crack)
+24. [NI LabVIEW](#ni-labview)
 
 <!-- /TOC -->
 
@@ -79,20 +83,24 @@
 <a id="markdown-windows%2Foffice" name="windows%2Foffice"></a>
 
 
-### KMS在线激活win11、win10、win8/8.1、win7和office2021/2019/2016/2013/2010之[MicroKMS 神龙版](http://www.yishimei.cn/network/319.html)
-<a id="markdown-kms%E5%9C%A8%E7%BA%BF%E6%BF%80%E6%B4%BBwin11%E3%80%81win10%E3%80%81win8%2F8.1%E3%80%81win7%E5%92%8Coffice2021%2F2019%2F2016%2F2013%2F2010%E4%B9%8Bmicrokms-%E7%A5%9E%E9%BE%99%E7%89%88" name="kms%E5%9C%A8%E7%BA%BF%E6%BF%80%E6%B4%BBwin11%E3%80%81win10%E3%80%81win8%2F8.1%E3%80%81win7%E5%92%8Coffice2021%2F2019%2F2016%2F2013%2F2010%E4%B9%8Bmicrokms-%E7%A5%9E%E9%BE%99%E7%89%88"></a>
+### MicroKMS 神龙版
+<a id="markdown-microkms-%E7%A5%9E%E9%BE%99%E7%89%88" name="microkms-%E7%A5%9E%E9%BE%99%E7%89%88"></a>
 
-目前MicroKMS神龙版能激活win11、win10、win8/8.1、win7以及server2008/2012/2016/2019/2022等系统版本，其中包括：专业工作站版、企业版、专业版、教育版、专业教育版、家庭版、核心版、中文版（OEM预装系统版本）、单语言版等，同时支持激活office 2010/2013/2016/2019/2021 Proplus、Visio 2010/2013/2016/2019/2021 Pro、Project 2010/2013/2016/2019/2021 Pro。
 
-### [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases)
+目前[MicroKMS神龙版](http://www.yishimei.cn/network/319.html)能激活win11、win10、win8/8.1、win7以及server2008/2012/2016/2019/2022等系统版本，其中包括：专业工作站版、企业版、专业版、教育版、专业教育版、家庭版、核心版、中文版（OEM预装系统版本）、单语言版等，同时支持激活office 2010/2013/2016/2019/2021 Proplus、Visio 2010/2013/2016/2019/2021 Pro、Project 2010/2013/2016/2019/2021 Pro。
+
+### HEU_KMS_Activator
 <a id="markdown-heu_kms_activator" name="heu_kms_activator"></a>
 
 
-含数字证书激活
+[HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases)含数字证书激活
 
-### [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
+### Microsoft Activation Scripts (MAS)
 <a id="markdown-microsoft-activation-scripts-mas" name="microsoft-activation-scripts-mas"></a>
+ [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
 Homepage - https://massgrave.dev/
+
 
 A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 ```powershell
@@ -102,9 +110,10 @@ irm https://get.activated.win | iex
 irm https://massgrave.dev/get | iex
 ```
 
-### [云萌 Windows 10+ 激活工具](https://cmwtat.cloudmoe.com/)
+### 云萌 Windows 10+ 激活工具
 <a id="markdown-%E4%BA%91%E8%90%8C-windows-10%2B-%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7" name="%E4%BA%91%E8%90%8C-windows-10%2B-%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7"></a>
 
+[云萌 Windows 10+ 激活工具](https://cmwtat.cloudmoe.com/)
 
 CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！[CMWTAT_Digital_Edition on Github](https://github.com/TGSAN/CMWTAT_Digital_Edition)
 
@@ -486,7 +495,7 @@ c9ffbc159bf2640ad5d9b88f8fa9d9cbf2b7e5b022a21938465244
 ## winhex
 <a id="markdown-winhex" name="winhex"></a>
 
-
+user.txt
 ```
 Name: Ponsonnet Olivier
 Addr: Ponsonnet@Olivium.Fr
@@ -655,8 +664,8 @@ Tmk5-bWWeREAJD-uhGotZkOkh0uWU
 - 用户名：yunfeng
 - 注册码：64062050000005A8EED7A2CFE61378C303A5DBBF18FF9
 
-## [SSH客户端软件].Xshell.4.Commercial.v4.0.0092-TE
-<a id="markdown-%5Bssh%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BD%AF%E4%BB%B6%5D.xshell.4.commercial.v4.0.0092-te" name="%5Bssh%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BD%AF%E4%BB%B6%5D.xshell.4.commercial.v4.0.0092-te"></a>
+## Xshell.4.Commercial.v4.0.0092-TE
+<a id="markdown-xshell.4.commercial.v4.0.0092-te" name="xshell.4.commercial.v4.0.0092-te"></a>
 
 
 ```
@@ -701,11 +710,11 @@ Winamp Pro >5.0
 ## 古籍库
 <a id="markdown-%E5%8F%A4%E7%B1%8D%E5%BA%93" name="%E5%8F%A4%E7%B1%8D%E5%BA%93"></a>
 
-
 - code:sd01
 - pswd:sd01
 
 ## IDM(internet download manager)
+<a id="markdown-idminternet-download-manager" name="idminternet-download-manager"></a>
 
 - [IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script)
 ```powershell
@@ -714,3 +723,21 @@ iex(irm is.gd/idm_reset)
 #or
 irm https://massgrave.dev/ias | iex
 ```
+
+## NetSetMan Pro
+<a id="markdown-netsetman-pro" name="netsetman-pro"></a>
+
+```
+[NetSetMan Pro 5.x License]
+Registration=qA7/SUgvlrQRgoNmdC7Fxg==
+```
+以上内容保存为lic.dat文件放置在netsetman pro安装目录下
+
+## AcrobatDCPro_2022.001.20085_Crack
+<a id="markdown-acrobatdcpro_2022.001.20085_crack" name="acrobatdcpro_2022.001.20085_crack"></a>
+按照目录下readme.txt中的提示，激活即可。
+
+## NI LabVIEW
+<a id="markdown-ni-labview" name="ni-labview"></a>
+
+双击目录下激活程序，根据安装模块逐一激活即可
