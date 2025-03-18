@@ -1,18 +1,15 @@
 # keys
-<a id="markdown-keys" name="keys"></a>
-
 
 个人常用软件的key、注册码、license及注册机等
 
 [![GitHub license](https://badgen.net/github/license/yaoqs/keys)](https://github.com/yaoqs/keys/blob/master/LICENSE) [![GitHub license](https://img.shields.io/github/license/yaoqs/keys.svg)](https://github.com/yaoqs/keys/blob/master/LICENSE)
 
-- 版权声明：Copyright © 2019-2024 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
+- 版权声明：Copyright © 2019-2025 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
 - 知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
 - 免责声明：此项目仅供学习交流使用，严禁用于商业用途及其他非法目的，请在24小时之内删除！如有侵权，请联系删除。
 - 业余时间所作，难免有不足及错漏之处，敬请包涵指正，可通过github仓库在线留言或[![Email](http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png)](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=m_L69OroxPj1qqKjrdvq6rX49PY)告知；如需补充其他相关专业信息，亦可邮件通知或github仓库在线留言；同时欢迎各位热心人士star、fork或共同参与维护仓库
 
 ## Stargazers over time
-<a id="markdown-stargazers-over-time" name="stargazers-over-time"></a>
 [![Stargazers over time](https://starchart.cc/yaoqs/keys.svg?variant=adaptive)](https://starchart.cc/yaoqs/keys)
 
 <!-- TOC -->
@@ -40,8 +37,8 @@
    4. [VS2013密钥](#vs2013密钥)
    5. [VS2012密钥](#vs2012密钥)
    6. [Microsoft Visual Studio 2010(VS2010)正式版 CDKEY / SN](#microsoft-visual-studio-2010vs2010正式版-cdkey--sn)
-   7. [序列号](#序列号)
-   8. [序列号](#序列号-1)
+   7. [Visual Studio 2005序列号](#visual-studio-2005序列号)
+   8. [Visual Studio 2008简体中文序列号](#visual-studio-2008简体中文序列号)
    9. [vs 插件](#vs-插件)
       1. [VS Supercharger插件](#vs-supercharger插件)
 5. [WinRAR](#winrar)
@@ -49,6 +46,7 @@
    1. [sql2012](#sql2012)
 7. [winhex](#winhex)
 8. [IDA](#ida)
+      1. [ida 9.1 pro](#ida-91-pro)
 9. [cd iso](#cd-iso)
    1. [WinISO5.3版的注册码](#winiso53版的注册码)
    2. [winiso reg.reg](#winiso-regreg)
@@ -74,30 +72,20 @@
 <!-- /TOC -->
 
 ## 网站
-<a id="markdown-%E7%BD%91%E7%AB%99" name="%E7%BD%91%E7%AB%99"></a>
-
 
 - [亦是美网络](http://www.yishimei.cn/)提供大量软件、资源的安装、注册激活等教程
 
 ## Windows/office
-<a id="markdown-windows%2Foffice" name="windows%2Foffice"></a>
-
 
 ### MicroKMS 神龙版
-<a id="markdown-microkms-%E7%A5%9E%E9%BE%99%E7%89%88" name="microkms-%E7%A5%9E%E9%BE%99%E7%89%88"></a>
-
 
 目前[MicroKMS神龙版](http://www.yishimei.cn/network/319.html)能激活win11、win10、win8/8.1、win7以及server2008/2012/2016/2019/2022等系统版本，其中包括：专业工作站版、企业版、专业版、教育版、专业教育版、家庭版、核心版、中文版（OEM预装系统版本）、单语言版等，同时支持激活office 2010/2013/2016/2019/2021 Proplus、Visio 2010/2013/2016/2019/2021 Pro、Project 2010/2013/2016/2019/2021 Pro。
 
 ### HEU_KMS_Activator
-<a id="markdown-heu_kms_activator" name="heu_kms_activator"></a>
-
 
 [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases)含数字证书激活
 
-### Microsoft Activation Scripts (MAS)
-<a id="markdown-microsoft-activation-scripts-mas" name="microsoft-activation-scripts-mas"></a>
- [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
+### [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 Homepage - https://massgrave.dev/
 
@@ -110,16 +98,11 @@ irm https://get.activated.win | iex
 irm https://massgrave.dev/get | iex
 ```
 
-### 云萌 Windows 10+ 激活工具
-<a id="markdown-%E4%BA%91%E8%90%8C-windows-10%2B-%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7" name="%E4%BA%91%E8%90%8C-windows-10%2B-%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7"></a>
-
-[云萌 Windows 10+ 激活工具](https://cmwtat.cloudmoe.com/)
+### [云萌 Windows 10+ 激活工具](https://cmwtat.cloudmoe.com/)
 
 CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！[CMWTAT_Digital_Edition on Github](https://github.com/TGSAN/CMWTAT_Digital_Edition)
 
 ### 完美绕过Win11限制=改5项注册表+删appraiserres.dll+断网
-<a id="markdown-%E5%AE%8C%E7%BE%8E%E7%BB%95%E8%BF%87win11%E9%99%90%E5%88%B6%3D%E6%94%B95%E9%A1%B9%E6%B3%A8%E5%86%8C%E8%A1%A8%2B%E5%88%A0appraiserres.dll%2B%E6%96%AD%E7%BD%91" name="%E5%AE%8C%E7%BE%8E%E7%BB%95%E8%BF%87win11%E9%99%90%E5%88%B6%3D%E6%94%B95%E9%A1%B9%E6%B3%A8%E5%86%8C%E8%A1%A8%2B%E5%88%A0appraiserres.dll%2B%E6%96%AD%E7%BD%91"></a>
-
 
 1. Windows下，双击iso\setup.exe时，务必删除appraiserres.dll。
 2. Windows下，双击iso\source\setup.exe时，务必保证已修改5项注册表（至少修改前3项）。
@@ -153,8 +136,6 @@ reg add "HKLM\SYSTEM\Setup\MoSetup" /v "AllowUpgradesWithUnsupportedTPMOrCPU" /t
   之所以断网，是因为动态更新时，还会自动下载appraiserres.dll，所以有时你以为删了，实际上等于没删除。断了网，就好了~
 
 ### Windows和Office的MAK密钥
-<a id="markdown-windows%E5%92%8Coffice%E7%9A%84mak%E5%AF%86%E9%92%A5" name="windows%E5%92%8Coffice%E7%9A%84mak%E5%AF%86%E9%92%A5"></a>
-
 
 ```
 产品密钥:NQTJT-Q9PQR-2C9MJ-4FXQ7-JQKR4
@@ -240,8 +221,6 @@ Volume:MAK 剩余次数:22117
 ```
 
 ### 微软内部泄露的 XP的KEY和无限次激活码
-<a id="markdown-%E5%BE%AE%E8%BD%AF%E5%86%85%E9%83%A8%E6%B3%84%E9%9C%B2%E7%9A%84-xp%E7%9A%84key%E5%92%8C%E6%97%A0%E9%99%90%E6%AC%A1%E6%BF%80%E6%B4%BB%E7%A0%81" name="%E5%BE%AE%E8%BD%AF%E5%86%85%E9%83%A8%E6%B3%84%E9%9C%B2%E7%9A%84-xp%E7%9A%84key%E5%92%8C%E6%97%A0%E9%99%90%E6%AC%A1%E6%BF%80%E6%B4%BB%E7%A0%81"></a>
-
 
 - Windows XP专业版最新注册码
   - HTXH6-2JJC4-CDB6C-X38B4-C3GF3
@@ -279,8 +258,6 @@ Volume:MAK 剩余次数:22117
   - HKWFJ-QDXTP-82QFW-2RFC8-PGHBG
 
 ### office 2007
-<a id="markdown-office-2007" name="office-2007"></a>
-
 
 - DBXYD-TF477-46YM4-W74MH-6YDQ8
 - KGFVY-7733B-8WCK9-KTG64-BC7D8
@@ -294,13 +271,10 @@ Volume:MAK 剩余次数:22117
 - CTKXX-M97FT-89PW2-DHKD3-74MYJ
 
 ### Visio 2007中文版序列号
-<a id="markdown-visio-2007%E4%B8%AD%E6%96%87%E7%89%88%E5%BA%8F%E5%88%97%E5%8F%B7" name="visio-2007%E4%B8%AD%E6%96%87%E7%89%88%E5%BA%8F%E5%88%97%E5%8F%B7"></a>
 
-
-W2JJW-4KYDP-2YMKW-FX36H-QYVD8
+- W2JJW-4KYDP-2YMKW-FX36H-QYVD8
 
 ### Microsoft Visio 2010
-<a id="markdown-microsoft-visio-2010" name="microsoft-visio-2010"></a>
 
 
 安装序列号：
@@ -310,8 +284,6 @@ W2JJW-4KYDP-2YMKW-FX36H-QYVD8
 - GRPWH-7CDHQ-K3G3C-JH2KX-C88H8
 
 ### project2016专业版激活密钥和下载地址
-<a id="markdown-project2016%E4%B8%93%E4%B8%9A%E7%89%88%E6%BF%80%E6%B4%BB%E5%AF%86%E9%92%A5%E5%92%8C%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80" name="project2016%E4%B8%93%E4%B8%9A%E7%89%88%E6%BF%80%E6%B4%BB%E5%AF%86%E9%92%A5%E5%92%8C%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80"></a>
-
 
 - project2016激活密钥：
   - NFC9V-8RJXB-B88QK-V3QQG-J2QKQ
@@ -331,11 +303,11 @@ W2JJW-4KYDP-2YMKW-FX36H-QYVD8
                 + cd "C:\Program Files (x86)\Microsoft Office\Office16"
         3. 安装Project2016密钥，设置kms服务器，激活Project2016。
 
-        ```cmd
-        cscript ospp.vbs /inpkey:YG9NW-3K39V-2T3HJ-93F3Q-G83KT
-        cscript ospp.vbs /sethst:kms.03k.org
-        cscript ospp.vbs /act
-        ```
+```cmd
+cscript ospp.vbs /inpkey:YG9NW-3K39V-2T3HJ-93F3Q-G83KT
+cscript ospp.vbs /sethst:kms.03k.org
+cscript ospp.vbs /act
+```
 
 - project2016专业版简体中文下载地址：ed2k://|file|cn_project_professional_2016_x86_x64_dvd_6966612.iso|2588266496|DEF65A0A9B12D8A8B734528800F625D5|/
 
@@ -347,43 +319,26 @@ W2JJW-4KYDP-2YMKW-FX36H-QYVD8
 - project2019专业版英文版下载地址：<https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-US/ProjectPro2019Retail.img>
 
 ### 插件
-<a id="markdown-%E6%8F%92%E4%BB%B6" name="%E6%8F%92%E4%BB%B6"></a>
-
 
 #### MathType
-<a id="markdown-mathtype" name="mathtype"></a>
-
 
 - 6.9： MTWE691-011076-szcud
 - ![6.9key](mathtype/mathtype6.9key.jpg)
 - [7.x](mathtype/MathType.exe)
 
 ## visual studio
-<a id="markdown-visual-studio" name="visual-studio"></a>
-
 
 ### vs2019
-<a id="markdown-vs2019" name="vs2019"></a>
 
-
-- Visual Studio 2019 Enterprise
-
-BF8Y8-GN2QH-T84XB-QVY3B-RC4DF
-
-- Visual Studio 2019 Professional
-
-NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y
+- Visual Studio 2019 Enterprise : BF8Y8-GN2QH-T84XB-QVY3B-RC4DF
+- Visual Studio 2019 Professional : NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y
 
 ### vs2017
-<a id="markdown-vs2017" name="vs2017"></a>
-
 
 - Visual Studio 2017（VS2017） 企业版(Enterprise) key：NJVYC-BMHX2-G77MM-4XJMR-6Q8QF
-- Visual Studio 2017（VS2017） 专业版(Professional key：KBJFW-NXHK6-W4WJM-CRMQB-G3CDH
+- Visual Studio 2017（VS2017） 专业版(Professional) key：KBJFW-NXHK6-W4WJM-CRMQB-G3CDH
 
 ### vs2015
-<a id="markdown-vs2015" name="vs2015"></a>
-
 
 - Visual Studio Professional 2015简体中文版（专业版）
 HMGNV-WCYXV-X7G9W-YCX63-B98R2
@@ -391,8 +346,6 @@ HMGNV-WCYXV-X7G9W-YCX63-B98R2
 HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
 
 ### VS2013密钥
-<a id="markdown-vs2013%E5%AF%86%E9%92%A5" name="vs2013%E5%AF%86%E9%92%A5"></a>
-
 
 - Visual Studio Ultimate 2013 KEY（密钥）：BWG7X-J98B3-W34RT-33B3R-JVYW9
 - Visual Studio Premium 2013 KEY（密钥）：FBJVC-3CMTX-D8DVP-RTQCT-92494
@@ -400,8 +353,6 @@ HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
 - Team Foundation Server 2013 KEY（密钥）：MHG9J-HHHX9-WWPQP-D8T7H-7KCQG
 
 ### VS2012密钥
-<a id="markdown-vs2012%E5%AF%86%E9%92%A5" name="vs2012%E5%AF%86%E9%92%A5"></a>
-
 
 - Microsoft Visual Studio Ultimate 2012 旗舰版，有效注册密钥：
   - YKCW6-BPFPF-BT8C9-7DCTH-QXGWC
@@ -411,41 +362,29 @@ HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
 - Microsoft Visual Studio Professional 2012 专业版，有效注册密钥：4D974-9QX42-9Y43G-YJ7JG-JDYBP
 
 ### Microsoft Visual Studio 2010(VS2010)正式版 CDKEY / SN
-<a id="markdown-microsoft-visual-studio-2010vs2010%E6%AD%A3%E5%BC%8F%E7%89%88-cdkey-%2F-sn" name="microsoft-visual-studio-2010vs2010%E6%AD%A3%E5%BC%8F%E7%89%88-cdkey-%2F-sn"></a>
 
+- YCFHQ-9DWCY-DKV88-T2TMH-G7BHP
 
-YCFHQ-9DWCY-DKV88-T2TMH-G7BHP
+### Visual Studio 2005序列号
 
-### 序列号
-<a id="markdown-%E5%BA%8F%E5%88%97%E5%8F%B7" name="%E5%BA%8F%E5%88%97%E5%8F%B7"></a>
+- KGR3T-F2C26-RRTGT-D6DQT-QBBB3
 
+### Visual Studio 2008简体中文序列号
 
-KGR3T-F2C26-RRTGT-D6DQT-QBBB3
-
-### 序列号
-<a id="markdown-%E5%BA%8F%E5%88%97%E5%8F%B7" name="%E5%BA%8F%E5%88%97%E5%8F%B7"></a>
-
-
-- XMQ2Y-4T3V6-XJ48Y-D3K2V-6C4WT
-- WPX3J-BXC3W-BPYWP-PJ8CM-F7M8T
-- PYHYP-WXB3B-B2CCM-V9DX9-VDY8T
-- WPDW8-M962C-VJX9M-HQB4Q-JVTDM
+- Visual Studio 2008 Professional Edition:  XMQ2Y-4T3V6-XJ48Y-D3K2V-6C4WT
+- Visual Studio 2008 Team Test Load Agent: WPX3J-BXC3W-BPYWP-PJ8CM-F7M8T
+- Visual Studio 2008 Team System:  PYHYP-WXB3B-B2CCM-V9DX9-VDY8T
+- Visual Studio 2008 Team Foundation Server: WPDW8-M962C-VJX9M-HQB4Q-JVTDM
 
 ### vs 插件
-<a id="markdown-vs-%E6%8F%92%E4%BB%B6" name="vs-%E6%8F%92%E4%BB%B6"></a>
-
 
 #### VS Supercharger插件
-<a id="markdown-vs-supercharger%E6%8F%92%E4%BB%B6" name="vs-supercharger%E6%8F%92%E4%BB%B6"></a>
-
 
 Supercharger 是 VS 的一款插件，针对代码进行优化和着色，便于观察和区分。[下载地址](https://marketplace.visualstudio.com/items?itemName=MichaelKissBG8.Supercharger)
 
 激活码：tt4e2HN4X3gEhlQm2a0qCFCNM3PMTVcFUD8q7POTX3GaJpTmrUx/Z2cOufl+pyZIsB1QLtzlYYqcB739vTKP1G2sEYTw/cCegh1xpHYE2Cp4CvRc/N95/bQTPjLyajOLUJ0iHvUDj2A
 
 ## WinRAR
-<a id="markdown-winrar" name="winrar"></a>
-
 
 将以下数据保存到WinRAR安装目录下，文件命名为RarReg.key即可。
 
@@ -478,11 +417,9 @@ c9ffbc159bf2640ad5d9b88f8fa9d9cbf2b7e5b022a21938465244
 ```
 
 ## MICROSOFT SQL SERVER
-<a id="markdown-microsoft-sql-server" name="microsoft-sql-server"></a>
 
 
 ### sql2012
-<a id="markdown-sql2012" name="sql2012"></a>
 
 
 - MICROSOFT SQL SERVER 2012 企业核心版激活码序列号: FH666-Y346V-7XFQ3-V69JM-RHW28
@@ -493,7 +430,6 @@ c9ffbc159bf2640ad5d9b88f8fa9d9cbf2b7e5b022a21938465244
 - MICROSOFT SQL SERVER 2012 WEB版激活码序列号: FB3W8-YRXDP-G8F8F-C46KG-Q998F
 
 ## winhex
-<a id="markdown-winhex" name="winhex"></a>
 
 user.txt
 ```
@@ -515,7 +451,6 @@ Cksm: 1C8E0BDA
 ```
 
 ## IDA
-<a id="markdown-ida" name="ida"></a>
 
 
 ```ida.key
@@ -544,19 +479,29 @@ S:igmMBSDuvPoA7/ZcutfE86pf8A9Gr4yjyjHEElmLwDPMy0ec7jgndf05prvG/PSL+mkvoCWumIoW
 S:FijwFFPXkrYVHFx/bDEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
 ```
 
+#### ida 9.1 pro
+
+https://bbs.kanxue.com/thread-285999.htm
+```
+magnet:?xt=urn:btih:f24cfadb8a66b343bf1ff4f0c1386a5f6991c818&dn=ida91
+
+All hashes (sh256)
+8d917a95e96c89ce0048482e3ba5bd596d4fe7fb7700e7bfe05ec621faf535a0 ida-pro_91_armmac.app.zip
+8ff08022be3a0ef693a9e3ea01010d1356b26cfdcbbe7fdd68d01b3c9700f9e2 ida-pro_91_x64linux.run
+e0f41d622153aea72c44a03e9c5b4970c90c46d89e120fd5634da30394ebe4f4 ida-pro_91_x64mac.app.zip
+811219de8c6575123f9385872376abca7adee7bcec68d8ead1f1f7a6249c9fe8 ida-pro_91_x64win.exe
+```
+
 ## cd iso
-<a id="markdown-cd-iso" name="cd-iso"></a>
 
 
 ### WinISO5.3版的注册码
-<a id="markdown-winiso5.3%E7%89%88%E7%9A%84%E6%B3%A8%E5%86%8C%E7%A0%81" name="winiso5.3%E7%89%88%E7%9A%84%E6%B3%A8%E5%86%8C%E7%A0%81"></a>
 
 
 - 注册名：Jim Jia
 - 注册码：311FB9003A8A9E0E92F08FF487297B485E45F124D9DD0D84
 
 ### winiso reg.reg
-<a id="markdown-winiso-reg.reg" name="winiso-reg.reg"></a>
 
 
 ```reg
@@ -576,10 +521,9 @@ Windows Registry Editor Version 5.00
 ```
 
 ### ultraiso reg.reg
-<a id="markdown-ultraiso-reg.reg" name="ultraiso-reg.reg"></a>
 
 
-- 1. 用户名 李明
+- 用户名 李明
 
 ```reg
 Windows Registry Editor Version 5.00
@@ -593,23 +537,18 @@ Windows Registry Editor Version 5.00
 "Registration"="66294559707f6d42115b3d29050d1b43"
 ```
 
-- 2. 用户名 李明 注册码 509F-BA54-BBA6-73C5
+- 用户名 李明 注册码 509F-BA54-BBA6-73C5
 
 ### nero
-<a id="markdown-nero" name="nero"></a>
 
-
-9040-0198-Z5EU-U5M9-5422-WC24-0EEW-L46M
+- 9040-0198-Z5EU-U5M9-5422-WC24-0EEW-L46M
 
 ### DVD Mate Deluxe v2.5.11.28 简繁英日注册版
-<a id="markdown-dvd-mate-deluxe-v2.5.11.28-%E7%AE%80%E7%B9%81%E8%8B%B1%E6%97%A5%E6%B3%A8%E5%86%8C%E7%89%88" name="dvd-mate-deluxe-v2.5.11.28-%E7%AE%80%E7%B9%81%E8%8B%B1%E6%97%A5%E6%B3%A8%E5%86%8C%E7%89%88"></a>
-
 
 - Name　 : TEAM CAT 2004
 - Serial : CMAA0EA775TAA
 
 ## Beyond Compare 3Key
-<a id="markdown-beyond-compare-3key" name="beyond-compare-3key"></a>
 
 
 ```text
@@ -633,31 +572,22 @@ Tmk5-bWWeREAJD-uhGotZkOkh0uWU
 ```
 
 ## vm652
-<a id="markdown-vm652" name="vm652"></a>
-
 
 序列号：GAEAN-1A0DF-F046V-4PRQ7
 
 ## corel videoStudio Pro x4 key
-<a id="markdown-corel-videostudio-pro-x4-key" name="corel-videostudio-pro-x4-key"></a>
-
 
 - 购买序列号：VS14R22-8522G9G-NY6ER28-3DBB46N
 - 激活代码:F285-0109-080E-FDCF-1160
 
 ## CorelDRAW Graphics Suite X5
-<a id="markdown-coreldraw-graphics-suite-x5" name="coreldraw-graphics-suite-x5"></a>
-
 
 - Purchase serial number: DR15R22-TPVLZUC-CL4GQJ3-BB6FUDA
 - Activation Code:6E8E-714A-E730-533B-4CB7
 
 ## 便携式文件夹加密器 5.43 注册信息
-<a id="markdown-%E4%BE%BF%E6%90%BA%E5%BC%8F%E6%96%87%E4%BB%B6%E5%A4%B9%E5%8A%A0%E5%AF%86%E5%99%A8-5.43-%E6%B3%A8%E5%86%8C%E4%BF%A1%E6%81%AF" name="%E4%BE%BF%E6%90%BA%E5%BC%8F%E6%96%87%E4%BB%B6%E5%A4%B9%E5%8A%A0%E5%AF%86%E5%99%A8-5.43-%E6%B3%A8%E5%86%8C%E4%BF%A1%E6%81%AF"></a>
-
 
 一款免费的文件夹加密软件，可以方便地加密任意文件夹,并且支持U盘加密，移动硬盘加密。使用介绍：
-
 1. 采用最新的加密技术,可以方便快捷地加密任意文件夹,U盘及移动硬盘
 2. 成熟的256位BlowFish加密算法能有效地保护您
 
@@ -665,8 +595,6 @@ Tmk5-bWWeREAJD-uhGotZkOkh0uWU
 - 注册码：64062050000005A8EED7A2CFE61378C303A5DBBF18FF9
 
 ## Xshell.4.Commercial.v4.0.0092-TE
-<a id="markdown-xshell.4.commercial.v4.0.0092-te" name="xshell.4.commercial.v4.0.0092-te"></a>
-
 
 ```
 Name: Use Anything You Want
@@ -677,21 +605,15 @@ License is a standard site license of 999 machines.
 ```
 
 ## editplus3
-<a id="markdown-editplus3" name="editplus3"></a>
-
 
 - Name: crsky
 - Code: 7879E-5BF58-7DR23-DAOB2-7DR30
 
 ## emeditor
-<a id="markdown-emeditor" name="emeditor"></a>
-
 
 Key:    ASHZZ-25KRS-78HT4-97SK3-R2JBB
 
 ## Winamp pro 5.04 注册码
-<a id="markdown-winamp-pro-5.04-%E6%B3%A8%E5%86%8C%E7%A0%81" name="winamp-pro-5.04-%E6%B3%A8%E5%86%8C%E7%A0%81"></a>
-
 
 - Name: it.weste.net
 - Key: YYSQW-H5FT3-M23Y3-QRKYL
@@ -702,19 +624,16 @@ Winamp Pro >5.0
 - 注册码： P0BA5-2CJBV-5TDHW-W2W6C
 
 ## EasyBoot V5.0.0.411简体中文注册版
-<a id="markdown-easyboot-v5.0.0.411%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E6%B3%A8%E5%86%8C%E7%89%88" name="easyboot-v5.0.0.411%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E6%B3%A8%E5%86%8C%E7%89%88"></a>
 
 - name: www.5icrack.com
 - sn:5568-2EED-F956-77D3
 
 ## 古籍库
-<a id="markdown-%E5%8F%A4%E7%B1%8D%E5%BA%93" name="%E5%8F%A4%E7%B1%8D%E5%BA%93"></a>
 
 - code:sd01
 - pswd:sd01
 
 ## IDM(internet download manager)
-<a id="markdown-idminternet-download-manager" name="idminternet-download-manager"></a>
 
 - [IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script)
 ```powershell
@@ -725,7 +644,6 @@ irm https://massgrave.dev/ias | iex
 ```
 
 ## NetSetMan Pro
-<a id="markdown-netsetman-pro" name="netsetman-pro"></a>
 
 ```
 [NetSetMan Pro 5.x License]
@@ -734,10 +652,10 @@ Registration=qA7/SUgvlrQRgoNmdC7Fxg==
 以上内容保存为lic.dat文件放置在netsetman pro安装目录下
 
 ## AcrobatDCPro_2022.001.20085_Crack
-<a id="markdown-acrobatdcpro_2022.001.20085_crack" name="acrobatdcpro_2022.001.20085_crack"></a>
-按照目录下readme.txt中的提示，激活即可。
+按照目录下[readme.txt](AcrobatDCPro_2022.001.20085_Crack/readme.txt)中的提示，激活即可。
 
 ## NI LabVIEW
-<a id="markdown-ni-labview" name="ni-labview"></a>
 
 双击目录下激活程序，根据安装模块逐一激活即可
+- [1.1](<NI LabVIEW/NI License Activator 1.1.exe>)
+- [1.2](<NI LabVIEW/NI_Lic_Act_1.2.exe>)
