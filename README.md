@@ -134,6 +134,9 @@ reg add "HKLM\SYSTEM\Setup\MoSetup" /v "AllowUpgradesWithUnsupportedTPMOrCPU" /t
 - 技术要素三：断网
 
   之所以断网，是因为动态更新时，还会自动下载appraiserres.dll，所以有时你以为删了，实际上等于没删除。断了网，就好了~
+  
+### [Flyby11 - 简单绕过移除 TPM 限制硬盘安装升级 Windows 11 工具](https://www.iplaysoft.com/p/flyby11)
+Flyby11 更适合用于本机硬盘升级安装 (无需 U 盘)。Flyby11 的核心是处理 ISO 镜像文件本身，直接修改镜像“从源头”移除 TPM 和 CPU 限制。这样处理过后的镜像，你既可直接在本地进行升级安装，也能用任意刻录工具（比如 Etcher、Ventoy 等）把它刻录到 U 盘、光盘里，再进行启动安装。
 
 ### Windows和Office的MAK密钥
 
@@ -548,8 +551,9 @@ Windows Registry Editor Version 5.00
 - Name　 : TEAM CAT 2004
 - Serial : CMAA0EA775TAA
 
-## Beyond Compare 3Key
+## Beyond Compare Key
 
+### version 3
 
 ```text
 Beyond Compare 3
@@ -568,6 +572,28 @@ jZ0RiiqGRCTVzwComUcXB-eiFWRBY6JpSsCNkmIxL5KsRCo442djHhTZE
 --- BEGIN LICENSE KEY ---
 A94CFr9HOQg9EZFtOoimovMf+nXXcSXIcIscmtrpQVD6jeW6AC4knIgBM
 Tmk5-bWWeREAJD-uhGotZkOkh0uWU
+--- END LICENSE KEY -----
+```
+
+### version 5
+
+：注册前需要先打补丁，也可以通过手动编辑方式对可执行文件进行编辑修改。建议使用十六进制编辑器打开BCompare.exe，然后使用搜索功能查找十六进制“37 4e 70 31”，然后将31改为6e，保存即可。重新打开程序，忽略警告，粘贴一下密钥注册即可。
+
+```txt
+Beyond Compare 5
+Licensed to:    看雪学苑www.kanxue.com
+Quantity:       888888 users
+Serial number:  =Kan-Xue=
+License type:   Pro Edition for Windows/Linux/macOS
+
+--- BEGIN LICENSE KEY ---
+BtTuyfCfXz3ZTH2ioAwEmjV1SDnBL3JgZXGBXMcsok6vA8Abpj
+YSXUeMxpanFGng3jKaejVU6i9fFDrowzZrKWLfz1cNuSrQHTsM
+Lv27oqJBXtkip3vpBZRpNuQqG1PzMHZCrYD1ahssewvDFA8uNK
+YeBEQQwvfEjEagEJHD7AhTL9JA6x6zRhZTHwwqGJjfTL5LBQTw
+KLqQMjerFke8hfvYr2uVWVNeeYZcCqnJJNu8GVD2BXYKYW594v
+jk4SDhtnyNCjV2num97YPsi3WZZXmjzL8gAQDLRTJBMgTt9nzY
+G22axCUdYCwFxtS7fSc9MvDd5Mhuf5XipEfoAq1AozG1HsoBXV
 --- END LICENSE KEY -----
 ```
 
@@ -611,7 +637,9 @@ License is a standard site license of 999 machines.
 
 ## emeditor
 
+- v10/v11
 Key:    ASHZZ-25KRS-78HT4-97SK3-R2JBB
+- v14-v17
 
 ## Winamp pro 5.04 注册码
 
