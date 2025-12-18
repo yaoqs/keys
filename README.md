@@ -2,12 +2,15 @@
 
 个人常用软件的key、注册码、license及注册机等
 
-[![GitHub license](https://badgen.net/github/license/yaoqs/keys)](https://github.com/yaoqs/keys/blob/master/LICENSE) [![GitHub license](https://img.shields.io/github/license/yaoqs/keys.svg)](https://github.com/yaoqs/keys/blob/master/LICENSE)
-
-- 版权声明：Copyright © 2019-2025 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
-- 知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
+- **作者**：要庆生（Copyright © 2019-2025）
+- **代码许可**：[![GitHub license](https://badgen.net/github/license/yaoqs/keys)](https://github.com/yaoqs/keys/blob/master/LICENSE) [![GitHub license](https://img.shields.io/github/license/yaoqs/keys.svg)](https://github.com/yaoqs/keys/blob/master/LICENSE)
+- **内容许可**：[CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+- 🐛 提交问题：[GitHub Issues](https://github.com/yaoqs/keys/issues)
+- 🔄 贡献内容：[Pull Requests](https://github.com/yaoqs/keys/pulls)
+- 📧 邮件反馈：<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=m_L69OroxPj1qqKjrdvq6rX49PY" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
+- ⭐**如果这个项目对您有帮助，请给个⭐Star支持一下！**
+- [fork](https://github.com/yaoqs/keys/fork)
 - 免责声明：此项目仅供学习交流使用，严禁用于商业用途及其他非法目的，请在24小时之内删除！如有侵权，请联系删除。
-- 业余时间所作，难免有不足及错漏之处，敬请包涵指正，可通过github仓库在线留言或[![Email](http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png)](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=m_L69OroxPj1qqKjrdvq6rX49PY)告知；如需补充其他相关专业信息，亦可邮件通知或github仓库在线留言；同时欢迎各位热心人士star、fork或共同参与维护仓库
 
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/yaoqs/keys.svg?variant=adaptive)](https://starchart.cc/yaoqs/keys)
@@ -325,9 +328,15 @@ cscript ospp.vbs /act
 
 #### MathType
 
-- 6.9： MTWE691-011076-szcud
-- ![6.9key](mathtype/mathtype6.9key.jpg)
-- [7.x](mathtype/MathType.exe)
+- 6.9： 
+ - MTWE691-011076-szcud
+ - MTWE691-011628-6tnf0
+ - MTWE691-011800-fvydn
+ - MTWE691-011524-947zu
+ - MTWE691-011076-szwud
+ - MTWE691-011352-2nmj7
+- 7.x
+ - [mathtype\MathType_v7.8.2](https://www.cnblogs.com/jsys2025/p/19065335)文件夹下
 
 ## visual studio
 
