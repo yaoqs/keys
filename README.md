@@ -2,14 +2,14 @@
 
 个人常用软件的key、注册码、license及注册机等
 
-- **作者**：要庆生（Copyright © 2019-2025）
+- **作者**：要庆生（Copyright © 2019-2026）
 - **代码许可**：[![GitHub license](https://badgen.net/github/license/yaoqs/keys)](https://github.com/yaoqs/keys/blob/master/LICENSE) [![GitHub license](https://img.shields.io/github/license/yaoqs/keys.svg)](https://github.com/yaoqs/keys/blob/master/LICENSE)
 - **内容许可**：[CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
 - 🐛 提交问题：[GitHub Issues](https://github.com/yaoqs/keys/issues)
 - 🔄 贡献内容：[Pull Requests](https://github.com/yaoqs/keys/pulls)
 - 📧 邮件反馈：<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=m_L69OroxPj1qqKjrdvq6rX49PY" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
 - ⭐**如果这个项目对您有帮助，请给个⭐Star支持一下！**
-- [fork](https://github.com/yaoqs/keys/fork)
+- 🍴[fork](https://github.com/yaoqs/keys/fork)
 - 免责声明：此项目仅供学习交流使用，严禁用于商业用途及其他非法目的，请在24小时之内删除！如有侵权，请联系删除。
 
 ## Stargazers over time
@@ -25,13 +25,14 @@
    3. [Microsoft Activation Scripts (MAS)](#microsoft-activation-scripts-mas)
    4. [云萌 Windows 10+ 激活工具](#云萌-windows-10-激活工具)
    5. [完美绕过Win11限制=改5项注册表+删appraiserres.dll+断网](#完美绕过win11限制改5项注册表删appraiserresdll断网)
-   6. [Windows和Office的MAK密钥](#windows和office的mak密钥)
-   7. [微软内部泄露的 XP的KEY和无限次激活码](#微软内部泄露的-xp的key和无限次激活码)
-   8. [office 2007](#office-2007)
-   9. [Visio 2007中文版序列号](#visio-2007中文版序列号)
-   10. [Microsoft Visio 2010](#microsoft-visio-2010)
-   11. [project2016专业版激活密钥和下载地址](#project2016专业版激活密钥和下载地址)
-   12. [插件](#插件)
+   6. [Flyby11 - 简单绕过移除 TPM 限制硬盘安装升级 Windows 11 工具](#flyby11---简单绕过移除-tpm-限制硬盘安装升级-windows-11-工具)
+   7. [Windows和Office的MAK密钥](#windows和office的mak密钥)
+   8. [微软内部泄露的 XP的KEY和无限次激活码](#微软内部泄露的-xp的key和无限次激活码)
+   9. [office 2007](#office-2007)
+   10. [Visio 2007中文版序列号](#visio-2007中文版序列号)
+   11. [Microsoft Visio 2010](#microsoft-visio-2010)
+   12. [project2016专业版激活密钥和下载地址](#project2016专业版激活密钥和下载地址)
+   13. [插件](#插件)
        1. [MathType](#mathtype)
 4. [visual studio](#visual-studio)
    1. [vs2019](#vs2019)
@@ -56,7 +57,9 @@
    3. [ultraiso reg.reg](#ultraiso-regreg)
    4. [nero](#nero)
    5. [DVD Mate Deluxe v2.5.11.28 简繁英日注册版](#dvd-mate-deluxe-v251128-简繁英日注册版)
-10. [Beyond Compare 3Key](#beyond-compare-3key)
+10. [Beyond Compare Key](#beyond-compare-key)
+    1. [version 3](#version-3)
+    2. [version 5](#version-5)
 11. [vm652](#vm652)
 12. [corel videoStudio Pro x4 key](#corel-videostudio-pro-x4-key)
 13. [CorelDRAW Graphics Suite X5](#coreldraw-graphics-suite-x5)
@@ -137,7 +140,7 @@ reg add "HKLM\SYSTEM\Setup\MoSetup" /v "AllowUpgradesWithUnsupportedTPMOrCPU" /t
 - 技术要素三：断网
 
   之所以断网，是因为动态更新时，还会自动下载appraiserres.dll，所以有时你以为删了，实际上等于没删除。断了网，就好了~
-  
+
 ### [Flyby11 - 简单绕过移除 TPM 限制硬盘安装升级 Windows 11 工具](https://www.iplaysoft.com/p/flyby11)
 Flyby11 更适合用于本机硬盘升级安装 (无需 U 盘)。Flyby11 的核心是处理 ISO 镜像文件本身，直接修改镜像“从源头”移除 TPM 和 CPU 限制。这样处理过后的镜像，你既可直接在本地进行升级安装，也能用任意刻录工具（比如 Etcher、Ventoy 等）把它刻录到 U 盘、光盘里，再进行启动安装。
 
@@ -296,10 +299,11 @@ Volume:MAK 剩余次数:22117
   - KM4WH-CN3DB-328PY-F8G7R-F6YT3
   - B6P27-P3NVX-KR8QY-DT4D8-6MVHK
   - P6MNV-VHHWP-7Q49D-M2V3B-6VJ3D
-- Project2016专业版永久密钥零售版：Project2016 Pro Retail：M8NTM-HBHP4-WDK77-QXXGD-DV7HK
+- Project2016专业版永久密钥零售版：
+  - Project2016 Pro Retail	: M8NTM-HBHP4-WDK77-QXXGD-DV7HK
 - Project2016批量授权版Volume:GVLK密钥 KMS激活专用【永久有效】
-  - Project2016专业版：YG9NW-3K39V-2T3HJ-93F3Q-G83KT
-  - Project2016标准版：GNFHQ-F6YQM-KQDGJ-327XX-KQBVC
+  - Project2016专业版		: YG9NW-3K39V-2T3HJ-93F3Q-G83KT
+  - Project2016标准版		: GNFHQ-F6YQM-KQDGJ-327XX-KQBVC
   - Project2016 VL版KMS密钥激活步骤：
         1. 右键开始图标，选择Windows Powershell(管理员)，依次执行下面命令；
         2. 进入office2016安装目录；
@@ -328,7 +332,7 @@ cscript ospp.vbs /act
 
 #### MathType
 
-- 6.9： 
+- 6.9：
  - MTWE691-011076-szcud
  - MTWE691-011628-6tnf0
  - MTWE691-011800-fvydn
@@ -342,13 +346,13 @@ cscript ospp.vbs /act
 
 ### vs2019
 
-- Visual Studio 2019 Enterprise : BF8Y8-GN2QH-T84XB-QVY3B-RC4DF
-- Visual Studio 2019 Professional : NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y
+- Visual Studio 2019 Enterprise 		: BF8Y8-GN2QH-T84XB-QVY3B-RC4DF
+- Visual Studio 2019 Professional 	: NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y
 
 ### vs2017
 
-- Visual Studio 2017（VS2017） 企业版(Enterprise) key：NJVYC-BMHX2-G77MM-4XJMR-6Q8QF
-- Visual Studio 2017（VS2017） 专业版(Professional) key：KBJFW-NXHK6-W4WJM-CRMQB-G3CDH
+- Visual Studio 2017（VS2017） 企业版(Enterprise) key	: NJVYC-BMHX2-G77MM-4XJMR-6Q8QF
+- Visual Studio 2017（VS2017） 专业版(Professional) key	: KBJFW-NXHK6-W4WJM-CRMQB-G3CDH
 
 ### vs2015
 
@@ -359,10 +363,10 @@ HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
 
 ### VS2013密钥
 
-- Visual Studio Ultimate 2013 KEY（密钥）：BWG7X-J98B3-W34RT-33B3R-JVYW9
-- Visual Studio Premium 2013 KEY（密钥）：FBJVC-3CMTX-D8DVP-RTQCT-92494
-- Visual Studio Professional 2013  KEY（密钥）： XDM3T-W3T3V-MGJWK-8BFVD-GVPKY
-- Team Foundation Server 2013 KEY（密钥）：MHG9J-HHHX9-WWPQP-D8T7H-7KCQG
+- Visual Studio Ultimate 2013 KEY（密钥）	: BWG7X-J98B3-W34RT-33B3R-JVYW9
+- Visual Studio Premium 2013 KEY（密钥）	: FBJVC-3CMTX-D8DVP-RTQCT-92494
+- Visual Studio Professional 2013  KEY（密钥）	: XDM3T-W3T3V-MGJWK-8BFVD-GVPKY
+- Team Foundation Server 2013 KEY（密钥）	: MHG9J-HHHX9-WWPQP-D8T7H-7KCQG
 
 ### VS2012密钥
 
@@ -370,8 +374,8 @@ HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
   - YKCW6-BPFPF-BT8C9-7DCTH-QXGWC
   - YQ7PR-QTHDM-HCBCV-9GKGG-TB2TM
   - RBCXF-CVBGR-382MK-DFHJ4-C69G8
-- Microsoft Visual Studio Premium 2012 高级版，有效注册密钥：MH2FR-BC9R2-84433-47M63-KQVWC
-- Microsoft Visual Studio Professional 2012 专业版，有效注册密钥：4D974-9QX42-9Y43G-YJ7JG-JDYBP
+- Microsoft Visual Studio Premium 2012 高级版，有效注册密钥		: MH2FR-BC9R2-84433-47M63-KQVWC
+- Microsoft Visual Studio Professional 2012 专业版，有效注册密钥	: 4D974-9QX42-9Y43G-YJ7JG-JDYBP
 
 ### Microsoft Visual Studio 2010(VS2010)正式版 CDKEY / SN
 
@@ -383,10 +387,10 @@ HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
 
 ### Visual Studio 2008简体中文序列号
 
-- Visual Studio 2008 Professional Edition:  XMQ2Y-4T3V6-XJ48Y-D3K2V-6C4WT
-- Visual Studio 2008 Team Test Load Agent: WPX3J-BXC3W-BPYWP-PJ8CM-F7M8T
-- Visual Studio 2008 Team System:  PYHYP-WXB3B-B2CCM-V9DX9-VDY8T
-- Visual Studio 2008 Team Foundation Server: WPDW8-M962C-VJX9M-HQB4Q-JVTDM
+- Visual Studio 2008 Professional Edition		: XMQ2Y-4T3V6-XJ48Y-D3K2V-6C4WT
+- Visual Studio 2008 Team Test Load Agent	: WPX3J-BXC3W-BPYWP-PJ8CM-F7M8T
+- Visual Studio 2008 Team System		: PYHYP-WXB3B-B2CCM-V9DX9-VDY8T
+- Visual Studio 2008 Team Foundation Server	: WPDW8-M962C-VJX9M-HQB4Q-JVTDM
 
 ### vs 插件
 
@@ -394,7 +398,7 @@ HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
 
 Supercharger 是 VS 的一款插件，针对代码进行优化和着色，便于观察和区分。[下载地址](https://marketplace.visualstudio.com/items?itemName=MichaelKissBG8.Supercharger)
 
-激活码：tt4e2HN4X3gEhlQm2a0qCFCNM3PMTVcFUD8q7POTX3GaJpTmrUx/Z2cOufl+pyZIsB1QLtzlYYqcB739vTKP1G2sEYTw/cCegh1xpHYE2Cp4CvRc/N95/bQTPjLyajOLUJ0iHvUDj2A
+激活码	：tt4e2HN4X3gEhlQm2a0qCFCNM3PMTVcFUD8q7POTX3GaJpTmrUx/Z2cOufl+pyZIsB1QLtzlYYqcB739vTKP1G2sEYTw/cCegh1xpHYE2Cp4CvRc/N95/bQTPjLyajOLUJ0iHvUDj2A
 
 ## WinRAR
 
@@ -434,12 +438,12 @@ c9ffbc159bf2640ad5d9b88f8fa9d9cbf2b7e5b022a21938465244
 ### sql2012
 
 
-- MICROSOFT SQL SERVER 2012 企业核心版激活码序列号: FH666-Y346V-7XFQ3-V69JM-RHW28
-- MICROSOFT SQL SERVER 2012 商业智能版激活码序列号: HRV7T-DVTM4-V6XG8-P36T4-MRYT6
-- MICROSOFT SQL SERVER 2012 开发版激活码序列号: YQWTX-G8T4R-QW4XX-BVH62-GP68Y
-- MICROSOFT SQL SERVER 2012 企业服务器版/CAL版序列号: 748RB-X4T6B-MRM7V-RTVFF-CHC8H
-- MICROSOFT SQL SERVER 2012 标准版激活码序列号: YFC4R-BRRWB-TVP9Y-6WJQ9-MCJQ7
-- MICROSOFT SQL SERVER 2012 WEB版激活码序列号: FB3W8-YRXDP-G8F8F-C46KG-Q998F
+- MICROSOFT SQL SERVER 2012 企业核心版激活码序列号	: FH666-Y346V-7XFQ3-V69JM-RHW28
+- MICROSOFT SQL SERVER 2012 商业智能版激活码序列号	: HRV7T-DVTM4-V6XG8-P36T4-MRYT6
+- MICROSOFT SQL SERVER 2012 开发版激活码序列号		: YQWTX-G8T4R-QW4XX-BVH62-GP68Y
+- MICROSOFT SQL SERVER 2012 企业服务器版/CAL版序列号	: 748RB-X4T6B-MRM7V-RTVFF-CHC8H
+- MICROSOFT SQL SERVER 2012 标准版激活码序列号		: YFC4R-BRRWB-TVP9Y-6WJQ9-MCJQ7
+- MICROSOFT SQL SERVER 2012 WEB版激活码序列号		: FB3W8-YRXDP-G8F8F-C46KG-Q998F
 
 ## winhex
 
@@ -510,8 +514,8 @@ e0f41d622153aea72c44a03e9c5b4970c90c46d89e120fd5634da30394ebe4f4 ida-pro_91_x64m
 ### WinISO5.3版的注册码
 
 
-- 注册名：Jim Jia
-- 注册码：311FB9003A8A9E0E92F08FF487297B485E45F124D9DD0D84
+- 注册名	: Jim Jia
+- 注册码	: 311FB9003A8A9E0E92F08FF487297B485E45F124D9DD0D84
 
 ### winiso reg.reg
 
@@ -558,7 +562,7 @@ Windows Registry Editor Version 5.00
 ### DVD Mate Deluxe v2.5.11.28 简繁英日注册版
 
 - Name　 : TEAM CAT 2004
-- Serial : CMAA0EA775TAA
+- Serial 	: CMAA0EA775TAA
 
 ## Beyond Compare Key
 
@@ -608,17 +612,17 @@ G22axCUdYCwFxtS7fSc9MvDd5Mhuf5XipEfoAq1AozG1HsoBXV
 
 ## vm652
 
-序列号：GAEAN-1A0DF-F046V-4PRQ7
+序列号	: GAEAN-1A0DF-F046V-4PRQ7
 
 ## corel videoStudio Pro x4 key
 
-- 购买序列号：VS14R22-8522G9G-NY6ER28-3DBB46N
-- 激活代码:F285-0109-080E-FDCF-1160
+- 购买序列号	: VS14R22-8522G9G-NY6ER28-3DBB46N
+- 激活代码		: F285-0109-080E-FDCF-1160
 
 ## CorelDRAW Graphics Suite X5
 
-- Purchase serial number: DR15R22-TPVLZUC-CL4GQJ3-BB6FUDA
-- Activation Code:6E8E-714A-E730-533B-4CB7
+- Purchase serial number	: DR15R22-TPVLZUC-CL4GQJ3-BB6FUDA
+- Activation Code		: 6E8E-714A-E730-533B-4CB7
 
 ## 便携式文件夹加密器 5.43 注册信息
 
@@ -626,49 +630,49 @@ G22axCUdYCwFxtS7fSc9MvDd5Mhuf5XipEfoAq1AozG1HsoBXV
 1. 采用最新的加密技术,可以方便快捷地加密任意文件夹,U盘及移动硬盘
 2. 成熟的256位BlowFish加密算法能有效地保护您
 
-- 用户名：yunfeng
-- 注册码：64062050000005A8EED7A2CFE61378C303A5DBBF18FF9
+- 用户名	: yunfeng
+- 注册码	: 64062050000005A8EED7A2CFE61378C303A5DBBF18FF9
 
 ## Xshell.4.Commercial.v4.0.0092-TE
 
 ```
-Name: Use Anything You Want
-Company: Use Anything You Want
-Serial: 690313-111999-999313
+Name	: Use Anything You Want
+Company	: Use Anything You Want
+Serial	: 690313-111999-999313
 
 License is a standard site license of 999 machines.
 ```
 
 ## editplus3
 
-- Name: crsky
-- Code: 7879E-5BF58-7DR23-DAOB2-7DR30
+- Name	: crsky
+- Code	: 7879E-5BF58-7DR23-DAOB2-7DR30
 
 ## emeditor
 
 - v10/v11
-Key:    ASHZZ-25KRS-78HT4-97SK3-R2JBB
+Key	: ASHZZ-25KRS-78HT4-97SK3-R2JBB
 - v14-v17
 
 ## Winamp pro 5.04 注册码
 
-- Name: it.weste.net
-- Key: YYSQW-H5FT3-M23Y3-QRKYL
+- Name	: it.weste.net
+- Key	: YYSQW-H5FT3-M23Y3-QRKYL
 
 Winamp Pro >5.0
 
-- 用户： xxm112
-- 注册码： P0BA5-2CJBV-5TDHW-W2W6C
+- 用户	: xxm112
+- 注册码	: P0BA5-2CJBV-5TDHW-W2W6C
 
 ## EasyBoot V5.0.0.411简体中文注册版
 
-- name: www.5icrack.com
-- sn:5568-2EED-F956-77D3
+- name	: www.5icrack.com
+- sn	: 5568-2EED-F956-77D3
 
 ## 古籍库
 
-- code:sd01
-- pswd:sd01
+- code	: sd01
+- pswd	: sd01
 
 ## IDM(internet download manager)
 
