@@ -12,14 +12,12 @@
 - 🍴[fork](https://github.com/yaoqs/keys/fork)
 - 免责声明：此项目仅供学习交流使用，严禁用于商业用途及其他非法目的，请在24小时之内删除！如有侵权，请联系删除。
 
-## Stargazers over time
 [![Stargazers over time](https://starchart.cc/yaoqs/keys.svg?variant=adaptive)](https://starchart.cc/yaoqs/keys)
 
 <!-- TOC -->
 
-1. [Stargazers over time](#stargazers-over-time)
-2. [网站](#网站)
-3. [Windows/office](#windowsoffice)
+1. [网站](#网站)
+2. [Windows/office](#windowsoffice)
    1. [MicroKMS 神龙版](#microkms-神龙版)
    2. [HEU\_KMS\_Activator](#heu_kms_activator)
    3. [Microsoft Activation Scripts (MAS)](#microsoft-activation-scripts-mas)
@@ -34,46 +32,48 @@
    12. [project2016专业版激活密钥和下载地址](#project2016专业版激活密钥和下载地址)
    13. [插件](#插件)
        1. [MathType](#mathtype)
-4. [visual studio](#visual-studio)
-   1. [vs2019](#vs2019)
-   2. [vs2017](#vs2017)
-   3. [vs2015](#vs2015)
-   4. [VS2013密钥](#vs2013密钥)
-   5. [VS2012密钥](#vs2012密钥)
-   6. [Microsoft Visual Studio 2010(VS2010)正式版 CDKEY / SN](#microsoft-visual-studio-2010vs2010正式版-cdkey--sn)
-   7. [Visual Studio 2005序列号](#visual-studio-2005序列号)
-   8. [Visual Studio 2008简体中文序列号](#visual-studio-2008简体中文序列号)
-   9. [vs 插件](#vs-插件)
-      1. [VS Supercharger插件](#vs-supercharger插件)
-5. [WinRAR](#winrar)
-6. [MICROSOFT SQL SERVER](#microsoft-sql-server)
+3. [visual studio](#visual-studio)
+   1. [vs2026](#vs2026)
+   2. [vs2022](#vs2022)
+   3. [vs2019](#vs2019)
+   4. [vs2017](#vs2017)
+   5. [vs2015](#vs2015)
+   6. [VS2013密钥](#vs2013密钥)
+   7. [VS2012密钥](#vs2012密钥)
+   8. [Microsoft Visual Studio 2010(VS2010)正式版 CDKEY / SN](#microsoft-visual-studio-2010vs2010正式版-cdkey--sn)
+   9. [Visual Studio 2005序列号](#visual-studio-2005序列号)
+   10. [Visual Studio 2008简体中文序列号](#visual-studio-2008简体中文序列号)
+   11. [vs 插件](#vs-插件)
+       1. [VS Supercharger插件](#vs-supercharger插件)
+4. [WinRAR](#winrar)
+5. [MICROSOFT SQL SERVER](#microsoft-sql-server)
    1. [sql2012](#sql2012)
-7. [winhex](#winhex)
-8. [IDA](#ida)
+6. [winhex](#winhex)
+7. [IDA](#ida)
       1. [ida 9.1 pro](#ida-91-pro)
-9. [cd iso](#cd-iso)
+8. [cd iso](#cd-iso)
    1. [WinISO5.3版的注册码](#winiso53版的注册码)
    2. [winiso reg.reg](#winiso-regreg)
    3. [ultraiso reg.reg](#ultraiso-regreg)
    4. [nero](#nero)
    5. [DVD Mate Deluxe v2.5.11.28 简繁英日注册版](#dvd-mate-deluxe-v251128-简繁英日注册版)
-10. [Beyond Compare Key](#beyond-compare-key)
-    1. [version 3](#version-3)
-    2. [version 5](#version-5)
-11. [vm652](#vm652)
-12. [corel videoStudio Pro x4 key](#corel-videostudio-pro-x4-key)
-13. [CorelDRAW Graphics Suite X5](#coreldraw-graphics-suite-x5)
-14. [便携式文件夹加密器 5.43 注册信息](#便携式文件夹加密器-543-注册信息)
-15. [Xshell.4.Commercial.v4.0.0092-TE](#xshell4commercialv400092-te)
-16. [editplus3](#editplus3)
-17. [emeditor](#emeditor)
-18. [Winamp pro 5.04 注册码](#winamp-pro-504-注册码)
-19. [EasyBoot V5.0.0.411简体中文注册版](#easyboot-v500411简体中文注册版)
-20. [古籍库](#古籍库)
-21. [IDM(internet download manager)](#idminternet-download-manager)
-22. [NetSetMan Pro](#netsetman-pro)
-23. [AcrobatDCPro\_2022.001.20085\_Crack](#acrobatdcpro_202200120085_crack)
-24. [NI LabVIEW](#ni-labview)
+9. [Beyond Compare Key](#beyond-compare-key)
+   1. [version 3](#version-3)
+   2. [version 5](#version-5)
+10. [vm652](#vm652)
+11. [corel videoStudio Pro x4 key](#corel-videostudio-pro-x4-key)
+12. [CorelDRAW Graphics Suite X5](#coreldraw-graphics-suite-x5)
+13. [便携式文件夹加密器 5.43 注册信息](#便携式文件夹加密器-543-注册信息)
+14. [Xshell.4.Commercial.v4.0.0092-TE](#xshell4commercialv400092-te)
+15. [editplus3](#editplus3)
+16. [emeditor](#emeditor)
+17. [Winamp pro 5.04 注册码](#winamp-pro-504-注册码)
+18. [EasyBoot V5.0.0.411简体中文注册版](#easyboot-v500411简体中文注册版)
+19. [古籍库](#古籍库)
+20. [IDM(internet download manager)](#idminternet-download-manager)
+21. [NetSetMan Pro](#netsetman-pro)
+22. [AcrobatDCPro\_2022.001.20085\_Crack](#acrobatdcpro_202200120085_crack)
+23. [NI LabVIEW](#ni-labview)
 
 <!-- /TOC -->
 
@@ -343,6 +343,18 @@ cscript ospp.vbs /act
  - [mathtype\MathType_v7.8.2](https://www.cnblogs.com/jsys2025/p/19065335)文件夹下
 
 ## visual studio
+
+### vs2026
+
+Visual Studio 2026 企业版/专业版 激活码 密钥（VS2026激活码）（VS2026密钥）
+
+- 专业版: NVTDK-QB8J9-M28GR-92BPC-BTHXK
+- 企业版: VYGRN-WPR22-HG4X3-692BF-QGT2V
+
+### vs2022
+
+- Visual Studio 2022 Enterprise   ：VHF9H-NXBBB-638P6-6JHCY-88JWH
+- Visual Studio 2022 Professional ：TD244-P4NB7-YQ6XK-Y8MMM-YWV2J
 
 ### vs2019
 
